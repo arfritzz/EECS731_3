@@ -1,0 +1,1555 @@
+,movieId,title,genres,rating,tag
+0,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,3.9209302325581397,"['pixar', 'pixar', 'fun']"
+1,2,Jumanji (1995),Adventure|Children|Fantasy,3.4318181818181817,"['fantasy', 'magic board game', 'robin williams', 'game']"
+2,3,Grumpier Old Men (1995),Comedy|Romance,3.2596153846153846,"['moldy', 'old']"
+3,5,Father of the Bride Part II (1995),Comedy,3.0714285714285716,"['pregnancy', 'remake']"
+4,7,Sabrina (1995),Comedy|Romance,3.185185185185185,['remake']
+5,11,"American President, The (1995)",Comedy|Drama|Romance,3.6714285714285713,"['politics', 'president']"
+6,14,Nixon (1995),Drama,3.8333333333333335,"['politics', 'president']"
+7,16,Casino (1995),Crime|Drama,3.926829268292683,['mafia']
+8,17,Sense and Sensibility (1995),Drama|Romance,3.7761194029850746,['jane austen']
+9,21,Get Shorty (1995),Comedy|Crime|Thriller,3.49438202247191,['hollywood']
+10,22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller,3.2222222222222223,['serial killer']
+11,25,Leaving Las Vegas (1995),Drama|Romance,3.625,['alcoholism']
+12,26,Othello (1995),Drama,3.5,['shakespeare']
+13,28,Persuasion (1995),Drama|Romance,4.2272727272727275,"['in netflix queue', 'jane austen']"
+14,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi,4.0131578947368425,['kidnapping']
+15,31,Dangerous Minds (1995),Drama,3.1842105263157894,"['high school', 'teacher']"
+16,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,3.983050847457627,"['time travel', 'time travel', 'brad pitt', 'bruce willis', 'mindfuck', 'post apocalyptic', 'post-apocalyptic', 'remake', 'time travel', 'twist ending']"
+17,34,Babe (1995),Children|Drama,3.65234375,"['animal movie', 'pigs', 'villain nonexistent or not needed for good story']"
+18,36,Dead Man Walking (1995),Crime|Drama,3.8358208955223883,"['death penalty', 'nun']"
+19,38,It Takes Two (1995),Children|Comedy,2.125,['twins']
+20,39,Clueless (1995),Comedy|Romance,3.293269230769231,"['chick flick', 'funny', 'paul rudd', 'quotable', 'seen more than once', 'emma', 'jane austen']"
+21,40,"Cry, the Beloved Country (1995)",Drama,4.25,"['in netflix queue', 'south africa']"
+22,41,Richard III (1995),Drama|War,3.7,['shakespeare']
+23,43,Restoration (1995),Drama,3.1875,['england']
+24,45,To Die For (1995),Comedy|Drama|Thriller,3.3125,['journalism']
+25,46,How to Make an American Quilt (1995),Drama|Romance,3.066666666666667,['wedding']
+26,47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,3.9753694581280787,"['mystery', 'twist ending', 'serial killer']"
+27,50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,4.237745098039215,"['mindfuck', 'suspense', 'thriller', 'tricky', 'twist ending', 'heist']"
+28,52,Mighty Aphrodite (1995),Comedy|Drama|Romance,3.4642857142857144,"['adoption', 'prostitution']"
+29,58,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance,4.027027027027027,['writing']
+30,62,Mr. Holland's Opus (1995),Drama,3.70625,['music']
+31,92,Mary Reilly (1996),Drama|Horror|Thriller,2.625,['jekyll and hyde']
+32,96,In the Bleak Midwinter (1995),Comedy|Drama,3.5,['theater']
+33,101,Bottle Rocket (1996),Adventure|Comedy|Crime|Romance,3.782608695652174,"['crime', 'off-beat comedy', 'quirky']"
+34,104,Happy Gilmore (1996),Comedy,3.4393939393939394,"['test tag', 'golf', 'adam sandler']"
+35,107,Muppet Treasure Island (1996),Adventure|Children|Comedy|Musical,3.326923076923077,['muppets']
+36,110,Braveheart (1995),Action|Drama|War,4.031645569620253,"['beautiful scenery', 'epic', 'historical', 'inspirational', 'medieval', 'mel gibson', 'oscar (best cinematography)', 'revenge', 'sword fight', 'scotland']"
+37,111,Taxi Driver (1976),Crime|Drama|Thriller,4.105769230769231,['assassination']
+38,116,Anne Frank Remembered (1995),Documentary,3.9,['holocaust']
+39,122,Boomerang (1992),Comedy|Romance,2.65625,['dating']
+40,140,Up Close and Personal (1996),Drama|Romance,3.5,['journalism']
+41,147,"Basketball Diaries, The (1995)",Drama,3.466666666666667,"['addiction', 'heroin', 'leonardo dicaprio', 'mark wahlberg']"
+42,150,Apollo 13 (1995),Adventure|Drama|IMAX,3.845771144278607,"['moon', 'nasa', 'space']"
+43,153,Batman Forever (1995),Action|Adventure|Comedy|Crime,2.9160583941605838,"['superhero', 'superhero']"
+44,160,Congo (1995),Action|Adventure|Mystery|Sci-Fi,2.8771929824561404,['michael crichton']
+45,161,Crimson Tide (1995),Drama|Thriller|War,3.6359223300970873,['submarine']
+46,162,Crumb (1994),Documentary,4.205882352941177,['in netflix queue']
+47,175,Kids (1995),Drama,3.975,"['controversial', 'new york city', 'nudity (full frontal)']"
+48,185,"Net, The (1995)",Action|Crime|Thriller,3.0401785714285716,['computers']
+49,199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",Drama|Musical|Romance,4.125,['made me cry']
+50,215,Before Sunrise (1995),Drama|Romance,4.041666666666667,['generation x']
+51,216,Billy Madison (1995),Comedy,3.326530612244898,"['school', 'adam sandler', 'stop looking at me swan']"
+52,222,Circle of Friends (1995),Drama|Romance,3.75,['ireland']
+53,223,Clerks (1994),Comedy,3.855769230769231,"['cynical', 'hilarious', 'independent film', 'quirky', 'witty', 'generation x']"
+54,224,Don Juan DeMarco (1995),Comedy|Drama|Romance,3.6125,"['mental illness', 'psychology']"
+55,230,Dolores Claiborne (1995),Drama|Thriller,3.3958333333333335,['stephen king']
+56,232,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance,3.892857142857143,['in netflix queue']
+57,235,Ed Wood (1994),Comedy|Drama,3.6785714285714284,['movie business']
+58,237,Forget Paris (1995),Comedy|Romance,3.340909090909091,"['basketball', 'france', 'infertility']"
+59,246,Hoop Dreams (1994),Documentary,4.293103448275862,['basketball']
+60,247,Heavenly Creatures (1994),Crime|Drama,3.9285714285714284,['australia']
+61,248,Houseguest (1994),Comedy,3.176470588235294,"['bad', 'sinbad']"
+62,249,Immortal Beloved (1994),Drama|Romance,3.7222222222222223,['beethoven']
+63,252,I.Q. (1994),Comedy|Romance,3.453488372093023,['einstein']
+64,257,Just Cause (1995),Mystery|Thriller,3.5,['court']
+65,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,4.231075697211155,"['classic', 'space action', 'action', 'sci-fi', 'epic', 'great soundtrack', 'classic sci-fi', 'engrossing adventure', 'epic', 'classic', 'nerd', 'classic sci-fi', 'space action', 'space epic', 'oldie but goodie', 'sci-fi', 'star wars', 'robots and androids', 'space', 'classic sci-fi', 'sci-fi', 'space adventure', 'star wars', 'darth vader', 'luke skywalker', 'space opera']"
+66,261,Little Women (1994),Drama,3.880952380952381,['louisa may alcott']
+67,262,"Little Princess, A (1995)",Children|Drama,3.9047619047619047,"['england', 'girl power', 'india']"
+68,272,"Madness of King George, The (1994)",Comedy|Drama,3.7580645161290325,"['england', 'mental illness']"
+69,273,Mary Shelley's Frankenstein (Frankenstein) (1994),Drama|Horror|Sci-Fi,2.9464285714285716,['gothic']
+70,277,Miracle on 34th Street (1994),Drama,3.223684210526316,['christmas']
+71,279,My Family (1995),Drama,3.0,['in netflix queue']
+72,280,Murder in the First (1995),Drama|Thriller,4.076923076923077,['prison']
+73,282,Nell (1994),Drama,3.3375,"['disability', 'twins']"
+74,288,Natural Born Killers (1994),Action|Crime|Thriller,3.233695652173913,"['brutality', 'controversial', 'dark comedy', 'psychedelic', 'satire', 'stylized']"
+75,290,Once Were Warriors (1994),Crime|Drama,4.035714285714286,['in netflix queue']
+76,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,4.018796992481203,"['assassin', 'jean reno', 'hit men', 'action', 'assassin', 'assassination', 'assassins', 'awkward romance', 'corruption', 'crime', 'disturbing', 'drama', 'french', 'friendship', 'gary oldman', 'great acting', 'guns', 'hit men', 'hitman', 'humorous', 'imdb top 250', 'jean reno', 'lolita theme', 'loneliness', 'love story', 'luc besson', 'natalie portman', 'organized crime', 'police', 'police corruption', 'quirky', 'sniper', 'tense', 'touching', 'unique']"
+77,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,4.197068403908795,"['good dialogue', 'great soundtrack', 'non-linear', 'cult film', 'drugs', 'quentin tarantino', 'tarantino', 'hit men', '1990s', 'achronological', 'action', 'action packed', 'aggressive', 'amazing', 'amazing dialogues', 'anthology', 'assassin', 'atmospheric', 'awesome', 'bad ass', 'bad language', 'bad-ass', 'bible', 'biblical references', 'big boys with guns', 'big name actors', 'black comedy', 'black humor', 'black humour', 'blood', 'blood splatters', 'bloody', 'bruce willis', 'brutality', 'casual violence', 'character development', 'characters', 'classic', 'classic movie', 'coke', 'comedy', 'conversation', 'cool', 'cool style', 'crime', 'crime scene scrubbing', 'cult', 'cult classic', 'cult film', 'dance', 'dancing', 'dark', 'dark comedy', 'dark humor', 'dialogue', 'different', 'diner', 'disjointed timeline', 'disturbing', 'drama', 'drug overdose', 'drugs', 'drugs & music', 'ensemble cast', 'entertaining', 'entirely dialogue', 'episodic', 'exciting', 'fast paced', 'fast-paced', 'film noir', 'film-noir', 'foul language', 'fun', 'funny', 'gangster', 'gangsters', 'genius', 'golden watch', 'good dialogue', 'good music', 'gore', 'great acting', 'great dialogue', 'great soundtrack', 'gritty', 'guns', 'harvey keitel', 'heroin', 'highly quotable', 'hit men', 'hitman', 'homosexuality', 'humour', 'iconic', 'imdb top 250', 'innovative', 'intellectual', 'intelligent', 'intense', 'interesting', 'intertwining storylines', 'interwoven storylines', 'ironic', 'irony', 'john travolta', 'killer-as-protagonist', 'los angeles', 'mafia', 'masterpiece', 'meaningless violence', 'milkshake', 'mobster', 'mobsters', 'monologue', 'motherfucker', 'multiple stories', 'multiple storylines', 'neo-noir', 'noir', 'non-linear', 'non-linear timeline', 'nonlinear', 'nonlinear narrative', 'nonlinear storyline', 'nonlinear timeline', 'notable soundtrack', 'offensive', 'organised crime', 'organized crime', 'original', 'original plot', 'out of order', ""palme d'or"", 'parody', 'philosophical', 'pop culture references', 'psychological', 'pulp', 'quentin tarantino', 'quirky', 'quotable', 'r:disturbing violent content including rape', 'r:disturbing violent images', 'r:graphic sexuality', 'r:some violence', 'r:strong bloody violence', 'r:strong language', 'r:sustained strong stylized violence', 'r:violence', 'random', 'rape', 'retro', 'roger avary', 'royal with cheese', 'samuel l. jackson', 'sarcasm', 'satire', 'sexy', 'smart writing', 'sophisticated', 'soundtrack', 'splatter', 'steve buscemi', 'storytelling', 'stylish', 'stylized', 'suspense', 'tarantino', 'thought-provoking', 'thriller', 'travolta', 'twist ending', 'uma thurman', 'unique', 'unpredictable', 'unusual', 'very funny', 'violence', 'violent', 'witty']"
+78,300,Quiz Show (1994),Drama,3.5185185185185186,['tv']
+79,307,Three Colors: Blue (Trois couleurs: Bleu) (1993),Drama,3.8958333333333335,['death']
+80,308,Three Colors: White (Trzy kolory: Bialy) (1994),Comedy|Drama,4.025,"['marriage', 'cynical']"
+81,316,Stargate (1994),Action|Adventure|Sci-Fi,3.375,['time travel']
+82,317,"Santa Clause, The (1994)",Comedy|Drama|Fantasy,3.2037037037037037,['christmas']
+83,318,"Shawshank Redemption, The (1994)",Crime|Drama,4.429022082018927,"['prison', 'stephen king', 'wrongful imprisonment', 'morgan freeman']"
+84,326,To Live (Huozhe) (1994),Drama,4.0,['in netflix queue']
+85,329,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi,3.3935185185185186,['enterprise']
+86,337,What's Eating Gilbert Grape (1993),Drama,3.7662337662337664,['mental illness']
+87,338,Virtuosity (1995),Action|Sci-Fi|Thriller,2.8421052631578947,['serial killer']
+88,339,While You Were Sleeping (1995),Comedy|Romance,3.4693877551020407,['coma']
+89,342,Muriel's Wedding (1994),Comedy,3.272727272727273,"['australia', 'weddings']"
+90,345,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama,3.5972222222222223,"['cross dressing', 'men in drag', 'remade']"
+91,349,Clear and Present Danger (1994),Action|Crime|Drama|Thriller,3.6045454545454545,['tom clancy']
+92,350,"Client, The (1994)",Drama|Mystery|Thriller,3.3859649122807016,['john grisham']
+93,351,"Corrina, Corrina (1994)",Comedy|Drama|Romance,3.176470588235294,['interracial romance']
+94,356,Forrest Gump (1994),Comedy|Drama|Romance|War,4.164133738601824,"['shrimp', 'vietnam', 'bubba gump shrimp', 'lieutenant dan', 'stupid is as stupid does', 'bittersweet', 'emotional', 'heartwarming', 'touching']"
+95,357,Four Weddings and a Funeral (1994),Comedy|Romance,3.5194174757281553,['wedding']
+96,361,It Could Happen to You (1994),Comedy|Drama|Romance,3.0588235294117645,['gambling']
+97,363,"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)",Documentary,4.0,"['holocaust', 'in netflix queue']"
+98,364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,3.941860465116279,"['disney', 'disney animated feature', 'oscar (best music - original score)', 'soundtrack', 'disney']"
+99,371,"Paper, The (1994)",Comedy|Drama,3.3095238095238093,['journalism']
+100,377,Speed (1994),Action|Romance|Thriller,3.5292397660818713,['bus']
+101,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,3.497191011235955,['spies']
+102,381,When a Man Loves a Woman (1994),Drama|Romance,3.8181818181818183,['alcoholism']
+103,410,Addams Family Values (1993),Children|Comedy|Fantasy,3.1011904761904763,"['black comedy', 'christina ricci', 'christopher lloyd', 'dark comedy', 'family', 'gothic']"
+104,412,"Age of Innocence, The (1993)",Drama,3.5,['edith wharton']
+105,413,Airheads (1994),Comedy,2.7884615384615383,['comedy']
+106,421,Black Beauty (1994),Adventure|Children|Drama,3.2083333333333335,['horses']
+107,425,Blue Sky (1994),Drama|Romance,3.75,"['mental illness', 'oscar (best actress)']"
+108,431,Carlito's Way (1993),Crime|Drama,3.738095238095238,"['al pacino', 'gangster', 'mafia']"
+109,440,Dave (1993),Comedy|Romance,3.5460526315789473,['president']
+110,454,"Firm, The (1993)",Drama|Thriller,3.5346534653465347,['john grisham']
+111,457,"Fugitive, The (1993)",Thriller,3.9921052631578946,['based on a tv show']
+112,471,"Hudsucker Proxy, The (1994)",Comedy,3.55,['hula hoop']
+113,474,In the Line of Fire (1993),Action|Thriller,3.692857142857143,['assassination']
+114,475,In the Name of the Father (1993),Drama,4.3,['ireland']
+115,477,What's Love Got to Do with It? (1993),Drama|Musical,3.3823529411764706,['biopic']
+116,480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,3.75,['dinosaur']
+117,488,M. Butterfly (1993),Drama|Romance,3.0,"['japan', 'sexuality']"
+118,497,Much Ado About Nothing (1993),Comedy|Romance,3.813953488372093,['shakespeare']
+119,500,Mrs. Doubtfire (1993),Comedy|Drama,3.388888888888889,"['cross dressing', 'divorce', 'men in drag']"
+120,508,Philadelphia (1993),Drama,3.6136363636363638,['aids']
+121,513,Radioland Murders (1994),Comedy|Mystery|Romance,3.375,"['radio', 'show business']"
+122,515,"Remains of the Day, The (1993)",Drama|Romance,3.6041666666666665,"['butler', 'housekeeper']"
+123,516,Renaissance Man (1994),Comedy|Drama,3.0555555555555554,['military']
+124,522,Romper Stomper (1992),Action|Drama,3.2857142857142856,"['australia', 'racism', 'violence']"
+125,524,Rudy (1993),Drama,3.485294117647059,['football']
+126,527,Schindler's List (1993),Drama|War,4.225,"['moving', 'thought-provoking', 'holocaust', 'based on a true story', 'biography', 'disturbing', 'holocaust']"
+127,529,Searching for Bobby Fischer (1993),Drama,3.875,['chess']
+128,531,"Secret Garden, The (1993)",Children|Drama,3.25,['in netflix queue']
+129,534,Shadowlands (1993),Drama|Romance,3.607142857142857,['c.s. lewis']
+130,535,Short Cuts (1993),Drama,3.2666666666666666,['large cast']
+131,538,Six Degrees of Separation (1993),Drama,3.5833333333333335,['race']
+132,539,Sleepless in Seattle (1993),Comedy|Drama|Romance,3.4716981132075473,['empire state building']
+133,540,Sliver (1993),Thriller,2.6666666666666665,['bad']
+134,541,Blade Runner (1982),Action|Sci-Fi|Thriller,4.100806451612903,"['sci-fi', 'robots', 'androids', 'artificial intelligence', 'atmospheric', 'cyberpunk', 'future', 'mindfuck', 'philip k. dick', 'atmospheric', 'dreamlike', 'existentialism', 'philosophical']"
+135,543,So I Married an Axe Murderer (1993),Comedy|Romance|Thriller,3.317073170731707,['beat poetry']
+136,551,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical,3.553763440860215,"['christmas', 'halloween']"
+137,552,"Three Musketeers, The (1993)",Action|Adventure|Comedy|Romance,3.262295081967213,['knights']
+138,556,"War Room, The (1993)",Documentary,3.3333333333333335,['politics']
+139,562,Welcome to the Dollhouse (1995),Comedy|Drama,3.5434782608695654,['adolescence']
+140,586,Home Alone (1990),Children|Comedy,2.9956896551724137,['christmas']
+141,587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,3.4347826086956523,['overrated']
+142,588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,3.7923497267759565,['disney']
+143,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,3.970982142857143,"['apocalypse', 'arnold schwarzenegger', 'nuclear war', 'sci-fi', 'suspense', 'time travel', 'robots', 'scifi masterpiece']"
+144,590,Dances with Wolves (1990),Adventure|Drama|Western,3.8353658536585367,"['american indians', 'native americans']"
+145,592,Batman (1989),Action|Crime|Thriller,3.4285714285714284,['superhero']
+146,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,4.161290322580645,"['hannibal lector', 'disturbing', 'drama', 'gothic', 'psychology', 'suspense']"
+147,594,Snow White and the Seven Dwarfs (1937),Animation|Children|Drama|Fantasy|Musical,3.616883116883117,['disney']
+148,595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,3.7705479452054793,['disney']
+149,596,Pinocchio (1940),Animation|Children|Fantasy|Musical,3.45,['disney']
+150,597,Pretty Woman (1990),Comedy|Romance,3.4851851851851854,['prostitution']
+151,608,Fargo (1996),Comedy|Crime|Drama|Thriller,4.116022099447513,"['based on a true story', 'dark comedy', 'kidnapping', 'steve buscemi', 'coen brothers']"
+152,616,"Aristocats, The (1970)",Animation|Children,3.411111111111111,['disney']
+153,628,Primal Fear (1996),Crime|Drama|Mystery|Thriller,3.642857142857143,"['edward norton', 'psychology', 'suspense', 'thought-provoking', 'twist ending', 'priest']"
+154,638,Jack and Sarah (1995),Romance,3.0,['babies']
+155,647,Courage Under Fire (1996),Action|Crime|Drama|War,3.3275862068965516,['gulf war']
+156,648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,3.537037037037037,['based on a tv show']
+157,668,Song of the Little Road (Pather Panchali) (1955),Drama,4.25,['india']
+158,670,"World of Apu, The (Apur Sansar) (1959)",Drama,4.75,['india']
+159,671,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi,3.486111111111111,['spoof']
+160,673,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,2.707547169811321,['bugs bunny']
+161,707,Mulholland Falls (1996),Crime|Drama|Thriller,2.880952380952381,['bad']
+162,708,"Truth About Cats & Dogs, The (1996)",Comedy|Romance,3.3879310344827585,['veterinarian']
+163,720,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,4.092592592592593,['aardman']
+164,728,Cold Comfort Farm (1995),Comedy,3.5,['in netflix queue']
+165,733,"Rock, The (1996)",Action|Adventure|Thriller,3.6404958677685952,"['alcatraz', 'michael bay', 'terrorism']"
+166,736,Twister (1996),Action|Adventure|Romance|Thriller,3.321138211382114,['disaster']
+167,745,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy,3.8958333333333335,['aardman']
+168,748,"Arrival, The (1996)",Action|Sci-Fi|Thriller,3.1136363636363638,['aliens']
+169,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,4.268041237113402,"['dark comedy', 'atomic bomb', 'black comedy', 'dark comedy', 'satire', 'purity of essence', 'slim pickens', 'black comedy', 'dark comedy', 'quirky']"
+170,778,Trainspotting (1996),Comedy|Crime|Drama,4.03921568627451,"['based on a book', 'dark comedy', 'narrated', 'drug abuse']"
+171,780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,3.4455445544554455,['aliens']
+172,800,Lone Star (1996),Drama|Mystery|Western,4.157894736842105,['in netflix queue']
+173,805,"Time to Kill, A (1996)",Drama|Thriller,3.657142857142857,['john grisham']
+174,818,"Very Brady Sequel, A (1996)",Comedy,3.25,['based on a tv show']
+175,830,"First Wives Club, The (1996)",Comedy,3.0714285714285716,['adultery']
+176,832,Ransom (1996),Crime|Thriller,3.3378378378378377,"['kidnapping', 'give me back my son!', 'it was melodramatic and kind of dumb', 'mel gibson']"
+177,836,Chain Reaction (1996),Action|Adventure|Thriller,2.8823529411764706,['seen at the cinema']
+178,838,Emma (1996),Comedy|Drama|Romance,3.9166666666666665,['jane austen']
+179,852,Tin Cup (1996),Comedy|Drama|Romance,3.1744186046511627,['golf']
+180,858,"Godfather, The (1972)",Crime|Drama,4.2890625,['mafia']
+181,892,Twelfth Night (1996),Comedy|Drama|Romance,3.5384615384615383,['shakespeare']
+182,898,"Philadelphia Story, The (1940)",Comedy|Drama|Romance,4.310344827586207,['divorce']
+183,899,Singin' in the Rain (1952),Comedy|Musical|Romance,4.074468085106383,['movie business']
+184,900,"American in Paris, An (1951)",Musical|Romance,3.7083333333333335,['france']
+185,902,Breakfast at Tiffany's (1961),Drama|Romance,3.8472222222222223,['capote']
+186,903,Vertigo (1958),Drama|Mystery|Romance|Thriller,4.025,"['falling', 'alfred hitchcock', 'atmospheric', 'imdb top 250', 'james stewart']"
+187,904,Rear Window (1954),Mystery|Thriller,4.261904761904762,"['voyeurism', 'imdb top 250', 'james stewart', 'mystery', 'photographer', 'photography']"
+188,905,It Happened One Night (1934),Comedy|Romance,4.321428571428571,['screwball']
+189,906,Gaslight (1944),Drama|Thriller,4.142857142857143,['brooch']
+190,907,"Gay Divorcee, The (1934)",Comedy|Musical|Romance,3.5,['divorce']
+191,908,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,4.184210526315789,"['mount rushmore', 'alfred hitchcock', 'imdb top 250']"
+192,909,"Apartment, The (1960)",Comedy|Drama|Romance,3.962962962962963,['adultery']
+193,910,Some Like It Hot (1959),Comedy|Crime,4.01,['men in drag']
+194,911,Charade (1963),Comedy|Crime|Mystery|Romance|Thriller,3.8076923076923075,['heist']
+195,912,Casablanca (1942),Drama|Romance,4.24,['start of a beautiful friendship']
+196,913,"Maltese Falcon, The (1941)",Film-Noir|Mystery,4.170454545454546,['statue']
+197,914,My Fair Lady (1964),Comedy|Drama|Musical|Romance,4.042857142857143,['george bernard shaw']
+198,915,Sabrina (1954),Comedy|Romance,3.7666666666666666,['rich guy - poor girl']
+199,916,Roman Holiday (1953),Comedy|Drama|Romance,4.0576923076923075,"['italy', 'royalty']"
+200,918,Meet Me in St. Louis (1944),Musical,4.1,['1900s']
+201,919,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical,3.880434782608696,"['dorothy', 'toto']"
+202,920,Gone with the Wind (1939),Drama|Romance|War,3.6444444444444444,['civil war']
+203,921,My Favorite Year (1982),Comedy,3.388888888888889,['television']
+204,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,4.333333333333333,"['movies', 'eerie', 'movie business']"
+205,923,Citizen Kane (1941),Drama|Mystery,4.043478260869565,['rosebud']
+206,924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,3.8944954128440368,"['hal', 'space', 'aliens', 'apes', 'arthur c. clarke', 'artificial intelligence', 'atmospheric', 'cinematography', 'classic', 'computer', 'confusing ending', 'cult film', 'dull', 'future', 'futuristic', 'imdb top 250', 'masterpiece', 'meditative', 'music', 'mystery', 'oscar (best effects - visual effects)', 'overrated', 'philosophical', 'relaxing', 'revolutionary', 'robots', 'sci-fi', 'setting:space/space ship', 'slow', 'slow paced', 'soundtrack', 'space', 'space travel', 'spacecraft', 'stanley kubrick', 'superb soundtrack', 'surreal', 'technology', 'tedious', 'visual', 'visually appealing']"
+207,926,All About Eve (1950),Drama,4.229166666666667,['hollywood']
+208,927,"Women, The (1939)",Comedy,4.0,['divorce']
+209,928,Rebecca (1940),Drama|Mystery|Romance|Thriller,4.166666666666667,['mrs. dewinter']
+210,929,Foreign Correspondent (1940),Drama|Film-Noir|Mystery|Thriller,3.5,"['europe', 'journalism', 'war']"
+211,930,Notorious (1946),Film-Noir|Romance|Thriller,4.25,['assassination']
+212,931,Spellbound (1945),Mystery|Romance|Thriller,3.8333333333333335,['amnesia']
+213,934,Father of the Bride (1950),Comedy,3.25,['wedding']
+214,936,Ninotchka (1939),Comedy|Romance,4.0,"['cold war', 'russia']"
+215,938,Gigi (1958),Musical,3.25,['prostitution']
+216,940,"Adventures of Robin Hood, The (1938)",Action|Adventure|Romance,4.0,['swashbuckler']
+217,941,"Mark of Zorro, The (1940)",Adventure,3.75,['swashbuckler']
+218,943,"Ghost and Mrs. Muir, The (1947)",Drama|Fantasy|Romance,3.9285714285714284,['ghosts']
+219,944,Lost Horizon (1937),Drama,4.0,['shangri-la']
+220,945,Top Hat (1935),Comedy|Musical|Romance,4.071428571428571,['astaire and rogers']
+221,947,My Man Godfrey (1936),Comedy|Romance,3.75,"['butler', 'homeless', 'screwball']"
+222,948,Giant (1956),Drama|Romance|Western,3.9166666666666665,['oil']
+223,950,"Thin Man, The (1934)",Comedy|Crime,3.857142857142857,['nick and nora charles']
+224,951,His Girl Friday (1940),Comedy|Romance,4.392857142857143,['screwball']
+225,952,Around the World in 80 Days (1956),Adventure|Comedy,3.625,['race']
+226,953,It's a Wonderful Life (1946),Children|Drama|Fantasy|Romance,4.0344827586206895,['christmas']
+227,954,Mr. Smith Goes to Washington (1939),Drama,4.083333333333333,['politics']
+228,955,Bringing Up Baby (1938),Comedy|Romance,3.861111111111111,"['leopard', 'screwball']"
+229,956,Penny Serenade (1941),Drama|Romance,4.0,['adoption']
+230,965,"39 Steps, The (1935)",Drama|Mystery|Thriller,4.045454545454546,['fugitive']
+231,968,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller,3.75,['zombies']
+232,969,"African Queen, The (1951)",Adventure|Comedy|Romance|War,3.9705882352941178,['missionary']
+233,970,Beat the Devil (1953),Adventure|Comedy|Crime|Drama|Romance,3.5,['crime']
+234,971,Cat on a Hot Tin Roof (1958),Drama,4.1,['tennessee williams']
+235,973,Meet John Doe (1941),Comedy|Drama,3.9,['journalism']
+236,976,"Farewell to Arms, A (1932)",Romance|War,3.0,['hemingway']
+237,986,Fly Away Home (1996),Adventure|Children,3.5384615384615383,['animal movie']
+238,991,Michael Collins (1996),Drama,3.3181818181818183,['ireland']
+239,994,Big Night (1996),Comedy|Drama,4.181818181818182,['food']
+240,1006,"Chamber, The (1996)",Drama,3.5,"['death penalty', 'john grisham']"
+241,1010,"Love Bug, The (1969)",Children|Comedy,3.0555555555555554,"['disney', 'race']"
+242,1013,"Parent Trap, The (1961)",Children|Comedy|Romance,3.2083333333333335,['twins']
+243,1022,Cinderella (1950),Animation|Children|Fantasy|Musical|Romance,3.488095238095238,['disney']
+244,1025,"Sword in the Stone, The (1963)",Animation|Children|Fantasy|Musical,3.58,"['disney', 'king arthur']"
+245,1028,Mary Poppins (1964),Children|Comedy|Fantasy|Musical,3.887323943661972,"['disney', 'nanny']"
+246,1029,Dumbo (1941),Animation|Children|Drama|Musical,3.3857142857142857,['disney']
+247,1030,Pete's Dragon (1977),Adventure|Animation|Children|Musical,2.7666666666666666,['disney']
+248,1032,Alice in Wonderland (1951),Adventure|Animation|Children|Fantasy|Musical,3.375,['disney']
+249,1033,"Fox and the Hound, The (1981)",Animation|Children|Drama,3.575,['disney']
+250,1035,"Sound of Music, The (1965)",Musical|Romance,3.9375,['rogers and hammerstein']
+251,1041,Secrets & Lies (1996),Drama,4.590909090909091,['in netflix queue']
+252,1042,That Thing You Do! (1996),Comedy|Drama,3.2738095238095237,['music']
+253,1059,William Shakespeare's Romeo + Juliet (1996),Drama|Romance,3.7222222222222223,"['amazing cinematography', 'leonardo dicaprio', 'shakespeare', 'updated classics', 'shakespeare']"
+254,1066,Shall We Dance (1937),Comedy|Musical|Romance,4.5,['astaire and rogers']
+255,1068,Crossfire (1947),Crime|Film-Noir,3.5,['anti-semitism']
+256,1079,"Fish Called Wanda, A (1988)",Comedy|Crime,3.9225352112676055,['fish']
+257,1080,Monty Python's Life of Brian (1979),Comedy,3.9269662921348316,"['bible', 'parody', 'religion']"
+258,1081,Victor/Victoria (1982),Comedy|Musical|Romance,3.5416666666666665,['cross dressing']
+259,1082,"Candidate, The (1972)",Drama,3.5833333333333335,['politics']
+260,1084,Bonnie and Clyde (1967),Crime|Drama,4.071428571428571,"['1920s', 'gangsters']"
+261,1088,Dirty Dancing (1987),Drama|Musical|Romance,3.369047619047619,"['dance', 'music']"
+262,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,4.202290076335878,"['ensemble cast', 'nonlinear', 'quentin tarantino', 'stylized', 'heist', 'violence', 'humorous', 'neo-noir', 'quentin tarantino', 'religion', 'tarantino']"
+263,1090,Platoon (1986),Drama|War,3.984126984126984,['vietnam']
+264,1093,"Doors, The (1991)",Drama,3.4054054054054053,"['1960s', 'jim morrison', 'music']"
+265,1096,Sophie's Choice (1982),Drama,4.05,['holocaust']
+266,1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,3.7663934426229506,['aliens']
+267,1101,Top Gun (1986),Action|Romance,3.3012048192771086,"['predictable', 'navy']"
+268,1103,Rebel Without a Cause (1955),Drama,4.1,"['1950s', 'adolescence']"
+269,1104,"Streetcar Named Desire, A (1951)",Drama,4.475,['tennessee williams']
+270,1120,"People vs. Larry Flynt, The (1996)",Comedy|Drama,3.537037037037037,['freedom of expression']
+271,1124,On Golden Pond (1981),Drama,3.6538461538461537,['aging']
+272,1125,"Return of the Pink Panther, The (1975)",Comedy|Crime,3.6875,['clousseau']
+273,1135,Private Benjamin (1980),Comedy,3.1153846153846154,['military']
+274,1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,4.161764705882353,"['british comedy', 'monty python', 'england', 'king arthur']"
+275,1147,When We Were Kings (1996),Documentary,3.9,"['boxing', 'in netflix queue']"
+276,1148,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,4.035714285714286,['aardman']
+277,1171,Bob Roberts (1992),Comedy,3.3529411764705883,['politics']
+278,1177,Enchanted April (1992),Drama|Romance,4.0,['italy']
+279,1178,Paths of Glory (1957),Drama|War,4.541666666666667,"['court', 'military']"
+280,1179,"Grifters, The (1990)",Crime|Drama|Film-Noir,3.6296296296296298,['crime']
+281,1183,"English Patient, The (1996)",Drama|Romance|War,3.7111111111111112,['adultery']
+282,1185,My Left Foot (1989),Drama,3.95,['in netflix queue']
+283,1187,Passion Fish (1992),Drama,3.6,['disability']
+284,1188,Strictly Ballroom (1992),Comedy|Romance,3.659090909090909,"['australia', 'dance']"
+285,1189,"Thin Blue Line, The (1988)",Documentary,4.0,"['in netflix queue', 'police']"
+286,1193,One Flew Over the Cuckoo's Nest (1975),Drama,4.203007518796992,"['emotional', 'jack nicholson', 'mental illness']"
+287,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,4.2156398104265405,"['i am your father', 'space', 'space opera', 'classic', 'george lucas', 'harrison ford', 'music', 'original plot', 'sci-fi', 'sequel']"
+288,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,4.232394366197183,"['inigo montoya', 'six-fingered man']"
+289,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,4.2075,"['adventure', 'archaeology', 'indiana jones', 'steven spielberg', 'treasure hunt', 'archaeology', 'ark of the covenant', 'indiana jones']"
+290,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,3.9642857142857144,"['action', 'aliens', 'horror', 'sci-fi', 'space', 'space craft', 'space travel', 'suspense', 'space']"
+291,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western,4.145833333333333,['spaghetti western']
+292,1203,12 Angry Men (1957),Drama,4.149122807017544,"['court', 'claustrophobic', 'confrontational', 'earnest', 'good dialogue', 'great screenplay', 'gritty', 'motivational', 'thought-provoking']"
+293,1204,Lawrence of Arabia (1962),Adventure|Drama|War,4.3,['middle east']
+294,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,3.995833333333333,['brainwashing']
+295,1207,To Kill a Mockingbird (1962),Drama,4.120689655172414,"['harper lee', 'racism']"
+296,1208,Apocalypse Now (1979),Action|Drama|War,4.219626168224299,['vietnam']
+297,1209,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western,4.305555555555555,['spaghetti western']
+298,1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,4.137755102040816,"['darth vader', 'luke skywalker', 'space opera']"
+299,1212,"Third Man, The (1949)",Film-Noir|Mystery|Thriller,4.229166666666667,"['ferris wheel', 'venice', 'zither']"
+300,1213,Goodfellas (1990),Crime|Drama,4.25,['mafia']
+301,1214,Alien (1979),Horror|Sci-Fi,3.969178082191781,['aliens']
+302,1217,Ran (1985),Drama|War,4.433333333333334,['samurai']
+303,1219,Psycho (1960),Crime|Horror,4.036144578313253,"['alfred hitchcock', 'psychology', 'suspenseful', 'tense', 'norman bates', 'alfred hitchcock', 'black and white', 'imdb top 250', 'remade']"
+304,1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,3.8095238095238093,['saturday night live']
+305,1221,"Godfather: Part II, The (1974)",Crime|Drama,4.25968992248062,"['al pacino', 'mafia', 'mafia']"
+306,1222,Full Metal Jacket (1987),Drama|War,4.098039215686274,"['vietnam', 'anti-war']"
+307,1223,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,4.089285714285714,['moon']
+308,1224,Henry V (1989),Action|Drama|Romance|War,4.0,['shakespeare']
+309,1225,Amadeus (1984),Drama,4.184210526315789,"['mozart', 'salieri']"
+310,1228,Raging Bull (1980),Drama,4.1875,['boxing']
+311,1230,Annie Hall (1977),Comedy|Romance,3.8706896551724137,['new york']
+312,1231,"Right Stuff, The (1983)",Drama,3.8636363636363638,"['nasa', 'space']"
+313,1233,"Boot, Das (Boat, The) (1981)",Action|Drama|War,4.2125,['submarine']
+314,1234,"Sting, The (1973)",Comedy|Crime,3.9765625,['the entertainer']
+315,1235,Harold and Maude (1971),Comedy|Drama|Romance,4.288461538461538,['may-december romance']
+316,1237,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama,4.222222222222222,"['chess', 'death', 'atmospheric', 'cerebral', 'existentialism', 'philosophical', 'reflective']"
+317,1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,3.8969465648854964,"['action', 'artificial intelligence', 'robots', 'sci-fi', 'special effects', 'tense', 'time travel', 'robots']"
+318,1242,Glory (1989),Drama|War,4.170731707317073,['civil war']
+319,1243,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama,3.96875,['shakespeare sort of']
+320,1244,Manhattan (1979),Comedy|Drama|Romance,4.106060606060606,['black and white']
+321,1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller,4.225,['mafia']
+322,1246,Dead Poets Society (1989),Drama,3.9593023255813953,"['highschool', 'high school']"
+323,1247,"Graduate, The (1967)",Comedy|Drama|Romance,4.063291139240507,['simon and garfunkel']
+324,1249,"Femme Nikita, La (Nikita) (1990)",Action|Crime|Romance|Thriller,4.071428571428571,['hit men']
+325,1250,"Bridge on the River Kwai, The (1957)",Adventure|Drama|War,4.122222222222222,['pow']
+326,1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,4.211864406779661,['incest']
+327,1253,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi|Thriller,3.82,['aliens']
+328,1254,"Treasure of the Sierra Madre, The (1948)",Action|Adventure|Drama|Western,3.65625,['cold']
+329,1257,Better Off Dead... (1985),Comedy|Romance,3.685185185185185,['skiing']
+330,1258,"Shining, The (1980)",Horror,4.08256880733945,"['atmospheric', 'disturbing', 'horror', 'jack nicholson', 'masterpiece', 'psychological', 'stanley kubrick', 'suspense', 'stephen king']"
+331,1259,Stand by Me (1986),Adventure|Drama,4.0054945054945055,['stephen king']
+332,1260,M (1931),Crime|Film-Noir|Thriller,3.7333333333333334,"['serial killer', 'atmospheric', 'chilly', 'creepy', 'menacing', 'mental illness', 'oninous']"
+333,1262,"Great Escape, The (1963)",Action|Adventure|Drama|War,4.127906976744186,['pow']
+334,1263,"Deer Hunter, The (1978)",Drama|War,3.8255813953488373,['vietnam']
+335,1266,Unforgiven (1992),Drama|Western,4.111111111111111,['revenge']
+336,1267,"Manchurian Candidate, The (1962)",Crime|Thriller|War,4.25,"['assassination', 'brainwashing']"
+337,1269,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller,3.8793103448275863,['murder']
+338,1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,4.038011695906433,['time travel']
+339,1272,Patton (1970),Drama|War,4.121212121212121,['world war ii']
+340,1274,Akira (1988),Action|Adventure|Animation|Sci-Fi,3.7435897435897436,"['animation', 'anime', 'visually stunning']"
+341,1276,Cool Hand Luke (1967),Drama,4.271929824561403,['prison']
+342,1277,Cyrano de Bergerac (1990),Comedy|Drama|Romance,4.125,['in netflix queue']
+343,1278,Young Frankenstein (1974),Comedy|Fantasy,3.9927536231884058,['spoof']
+344,1280,Raise the Red Lantern (Da hong deng long gao gao gua) (1991),Drama,4.333333333333333,['in netflix queue']
+345,1281,"Great Dictator, The (1940)",Comedy|Drama|War,4.133333333333334,['nazis']
+346,1282,Fantasia (1940),Animation|Children|Fantasy|Musical,3.7830188679245285,['disney']
+347,1283,High Noon (1952),Drama|Western,4.2105263157894735,['gunfight']
+348,1284,"Big Sleep, The (1946)",Crime|Film-Noir|Mystery,4.142857142857143,['hammett']
+349,1285,Heathers (1989),Comedy,3.731707317073171,['high school']
+350,1288,This Is Spinal Tap (1984),Comedy,4.015151515151516,"['music', 'heavy metal', 'mockumentary', 'music']"
+351,1291,Indiana Jones and the Last Crusade (1989),Action|Adventure,4.046428571428572,"['archaeology', 'holy grail']"
+352,1292,Being There (1979),Comedy|Drama,3.95,['television']
+353,1293,Gandhi (1982),Drama,3.8333333333333335,['india']
+354,1296,"Room with a View, A (1986)",Drama|Romance,3.7058823529411766,['e. m. forster']
+355,1299,"Killing Fields, The (1984)",Drama|War,4.017857142857143,"['cambodia', 'vietnam']"
+356,1301,Forbidden Planet (1956),Drama|Sci-Fi,3.8076923076923075,"['shakespeare sort of', 'space']"
+357,1302,Field of Dreams (1989),Children|Drama|Fantasy,3.517857142857143,['baseball']
+358,1303,"Man Who Would Be King, The (1975)",Adventure|Drama,4.029411764705882,['india']
+359,1304,Butch Cassidy and the Sundance Kid (1969),Action|Western,3.943548387096774,['crime']
+360,1307,When Harry Met Sally... (1989),Comedy|Romance,3.8588235294117648,['new york']
+361,1333,"Birds, The (1963)",Horror|Thriller,3.602272727272727,['birds']
+362,1343,Cape Fear (1991),Thriller,3.78,"['horror', 'juliette lewis', 'martin scorsese', 'robert de niro', 'remake']"
+363,1344,Cape Fear (1962),Crime|Drama|Thriller,3.9642857142857144,['lawyer']
+364,1345,Carrie (1976),Drama|Fantasy|Horror|Thriller,3.3472222222222223,"['high school', 'prom', 'stephen king']"
+365,1348,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Horror,3.53125,['vampires']
+366,1350,"Omen, The (1976)",Horror|Mystery|Thriller,3.8181818181818183,['demons']
+367,1353,"Mirror Has Two Faces, The (1996)",Comedy|Drama|Romance,3.375,['personals ads']
+368,1354,Breaking the Waves (1996),Drama|Mystery,4.071428571428571,['religion']
+369,1356,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi|Thriller,3.879120879120879,['borg']
+370,1357,Shine (1996),Drama|Romance,4.0,['music']
+371,1358,Sling Blade (1996),Drama,3.8404255319148937,['ex-con']
+372,1361,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Documentary,4.083333333333333,['in netflix queue']
+373,1363,"Preacher's Wife, The (1996)",Drama,3.5,['religion']
+374,1366,"Crucible, The (1996)",Drama,3.9,['arthur miller']
+375,1367,101 Dalmatians (1996),Adventure|Children|Comedy,3.074468085106383,"['dogs', 'remake']"
+376,1372,Star Trek VI: The Undiscovered Country (1991),Action|Mystery|Sci-Fi,3.3452380952380953,['klingons']
+377,1374,Star Trek II: The Wrath of Khan (1982),Action|Adventure|Sci-Fi|Thriller,3.7661290322580645,['captain kirk']
+378,1376,Star Trek IV: The Voyage Home (1986),Adventure|Comedy|Sci-Fi,3.4767441860465116,['whales']
+379,1377,Batman Returns (1992),Action|Crime,3.025,['superhero']
+380,1380,Grease (1978),Comedy|Musical|Romance,3.139705882352941,['high school']
+381,1381,Grease 2 (1982),Comedy|Musical|Romance,2.0789473684210527,['high school']
+382,1387,Jaws (1975),Action|Horror,4.0054945054945055,['shark']
+383,1389,Jaws 3-D (1983),Action|Horror,1.4166666666666667,['shark']
+384,1393,Jerry Maguire (1996),Drama|Romance,3.5941176470588236,['sports']
+385,1394,Raising Arizona (1987),Comedy,3.9913793103448274,['coen brothers']
+386,1396,Sneakers (1992),Action|Comedy|Crime|Drama|Sci-Fi,3.4782608695652173,['spying']
+387,1398,In Love and War (1996),Romance|War,2.5,['hemingway']
+388,1407,Scream (1996),Comedy|Horror|Mystery|Thriller,3.2,"['slasher', 'spoof']"
+389,1408,"Last of the Mohicans, The (1992)",Action|Romance|War|Western,3.8333333333333335,"['hawkeye', 'james fennimore cooper']"
+390,1411,Hamlet (1996),Crime|Drama|Romance,4.0,['shakespeare']
+391,1413,"Whole Wide World, The (1996)",Drama,4.25,['conan']
+392,1416,Evita (1996),Drama|Musical,3.4166666666666665,['andrew lloyd weber']
+393,1423,Hearts and Minds (1996),Drama,4.0,"['in netflix queue', 'vietnam']"
+394,1441,Benny & Joon (1993),Comedy|Romance,3.473684210526316,"['mental illness', 'not seen']"
+395,1446,Kolya (Kolja) (1996),Comedy|Drama,4.428571428571429,['in netflix queue']
+396,1449,Waiting for Guffman (1996),Comedy,3.875,['mockumentary']
+397,1466,Donnie Brasco (1997),Crime|Drama,3.7403846153846154,['mafia']
+398,1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997),Children|Comedy,2.1363636363636362,['jungle']
+399,1485,Liar Liar (1997),Comedy,3.0337837837837838,['lawyer']
+400,1496,Anna Karenina (1997),Drama|Romance,4.0,['tolstoy']
+401,1500,Grosse Pointe Blank (1997),Comedy|Crime|Romance,3.610169491525424,"['hit men', 'reunion']"
+402,1513,Romy and Michele's High School Reunion (1997),Comedy,2.9655172413793105,['reunion']
+403,1537,Shall We Dance? (Shall We Dansu?) (1996),Comedy|Drama|Romance,3.8076923076923075,['ballroom dance']
+404,1542,Brassed Off (1996),Comedy|Drama|Romance,3.7142857142857144,['in netflix queue']
+405,1544,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller,2.753731343283582,['dinosaurs']
+406,1545,Ponette (1996),Drama,4.5,['death']
+407,1569,My Best Friend's Wedding (1997),Comedy|Romance,3.5,"['romantic comedy', 'wedding', 'weddings']"
+408,1573,Face/Off (1997),Action|Crime|Drama|Thriller,3.3701298701298703,['transplants']
+409,1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,3.487878787878788,['aliens']
+410,1586,G.I. Jane (1997),Action|Drama,2.7954545454545454,['military']
+411,1608,Air Force One (1997),Action|Thriller,3.3448275862068964,['president']
+412,1610,"Hunt for Red October, The (1990)",Action|Adventure|Thriller,3.8722222222222222,['tom clancy']
+413,1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,4.061855670103093,['police']
+414,1625,"Game, The (1997)",Drama|Mystery|Thriller,3.7012987012987013,"['mindfuck', 'mystery', 'plot twist', 'psychological', 'suspense', 'twist ending', 'twist ending', 'mystery']"
+415,1635,"Ice Storm, The (1997)",Drama,3.8823529411764706,['1970s']
+416,1643,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)",Drama|Romance,3.8,"['england', 'queen victoria']"
+417,1645,The Devil's Advocate (1997),Drama|Mystery|Thriller,3.411764705882353,['lawyers']
+418,1650,Washington Square (1997),Drama,3.75,['henry james']
+419,1653,Gattaca (1997),Drama|Sci-Fi|Thriller,3.953488372093023,"['future', 'intelligent', 'thought-provoking']"
+420,1663,Stripes (1981),Comedy|War,3.7941176470588234,['military']
+421,1672,"Rainmaker, The (1997)",Drama,3.375,['in netflix queue']
+422,1674,Witness (1985),Drama|Romance|Thriller,3.65,['amish']
+423,1680,Sliding Doors (1998),Drama|Romance,3.6,['alternate universe']
+424,1682,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi,3.812,['tv']
+425,1683,"Wings of the Dove, The (1997)",Drama|Romance,4.416666666666667,['henry james']
+426,1704,Good Will Hunting (1997),Drama|Romance,4.078014184397163,"['inspirational', 'heartwarming', 'inspirational']"
+427,1711,Midnight in the Garden of Good and Evil (1997),Crime|Drama|Mystery,3.1041666666666665,['savannah']
+428,1717,Scream 2 (1997),Comedy|Horror|Mystery|Thriller,2.9193548387096775,"['sequel', 'slasher', 'spoof']"
+429,1719,"Sweet Hereafter, The (1997)",Drama,4.25,"['canada', 'death']"
+430,1721,Titanic (1997),Drama|Romance,3.414285714285714,"['shipwreck', 'romance']"
+431,1726,"Postman, The (1997)",Action|Adventure|Drama|Sci-Fi,2.6923076923076925,"['kevin costner', 'post apocalyptic']"
+432,1732,"Big Lebowski, The (1998)",Comedy|Crime,3.9245283018867925,"['coen brothers', 'black comedy', 'bowling', 'classic', 'coen brothers', 'comedy', 'crime', 'cult classic', 'cult film', 'dark comedy', 'deadpan', 'drugs', 'funny', 'great dialogue', 'great soundtrack', 'highly quotable', 'imdb top 250', 'jeff bridges', 'john goodman', 'julianne moore', 'kidnapping', 'marijuana', 'nudity (full frontal)', 'off-beat comedy', 'philip seymour hoffman', 'quirky', 'ransom', 'rug', 'sarcasm', 'satirical', 'steve buscemi', 'violence']"
+433,1735,Great Expectations (1998),Drama|Romance,3.3181818181818183,['charles dickens']
+434,1748,Dark City (1998),Adventure|Film-Noir|Sci-Fi|Thriller,3.8229166666666665,['amnesia']
+435,1777,"Wedding Singer, The (1998)",Comedy|Romance,3.419642857142857,['1980s']
+436,1779,Sphere (1998),Sci-Fi|Thriller,2.760869565217391,['good']
+437,1797,Everest (1998),Documentary|IMAX,4.25,['in netflix queue']
+438,1801,"Man in the Iron Mask, The (1998)",Action|Adventure|Drama,3.5,['seen more than once']
+439,1810,Primary Colors (1998),Comedy|Drama,3.5,['politics']
+440,1834,"Spanish Prisoner, The (1997)",Crime|Drama|Mystery|Thriller,4.0,['twist ending']
+441,1836,"Last Days of Disco, The (1998)",Comedy|Drama,4.5,['no dvd at netflix']
+442,1893,Beyond Silence (Jenseits der Stille) (1996),Drama,4.5,['in netflix queue']
+443,1900,"Children of Heaven, The (Bacheha-Ye Aseman) (1997)",Comedy|Drama,4.0,['in netflix queue']
+444,1902,Dream for an Insomniac (1996),Drama|Romance,4.0,['generation x']
+445,1909,"X-Files: Fight the Future, The (1998)",Action|Crime|Mystery|Sci-Fi|Thriller,3.4404761904761907,['conspiracy']
+446,1912,Out of Sight (1998),Comedy|Crime|Drama|Romance|Thriller,3.859375,['heist']
+447,1913,Picnic at Hanging Rock (1975),Drama|Mystery,4.0,['australia']
+448,1916,Buffalo '66 (a.k.a. Buffalo 66) (1998),Drama|Romance,3.4166666666666665,"['avant-garde romantic comedy', 'elegiac', 'melancholy', 'quirky', 'wry']"
+449,1917,Armageddon (1998),Action|Romance|Sci-Fi|Thriller,3.0543478260869565,['space']
+450,1921,Pi (1998),Drama|Sci-Fi|Thriller,3.851063829787234,"['hallucinatory', 'mental illness', 'mindfuck', 'paranoid', 'mathematics', 'artsy', 'atmospheric', 'cerebral', 'enigmatic', 'existentialism', 'hallucinatory', 'insanity', 'paranoia', 'paranoid', 'surreal', 'tense', 'visually appealing']"
+451,1923,There's Something About Mary (1998),Comedy|Romance,3.676190476190476,"['ben stiller', 'ben stiller', 'crude humor', 'goofy']"
+452,1931,Mutiny on the Bounty (1935),Adventure|Drama,4.166666666666667,['ships']
+453,1938,"Lost Weekend, The (1945)",Drama,4.0,['alcoholism']
+454,1940,Gentleman's Agreement (1947),Drama,4.0,"['anti-semitism', 'judaism']"
+455,1942,All the King's Men (1949),Drama,4.25,"['huey long', 'in netflix queue', 'robert penn warren']"
+456,1945,On the Waterfront (1954),Crime|Drama,4.1875,"['boxing', 'coulda been a contender']"
+457,1947,West Side Story (1961),Drama|Musical|Romance,3.6029411764705883,['gangs']
+458,1948,Tom Jones (1963),Adventure|Comedy|Romance,3.642857142857143,['british']
+459,1950,In the Heat of the Night (1967),Drama|Mystery,4.181818181818182,['racism']
+460,1951,Oliver! (1968),Drama|Musical,3.5714285714285716,['dickens']
+461,1952,Midnight Cowboy (1969),Drama,3.9545454545454546,['prostitution']
+462,1953,"French Connection, The (1971)",Action|Crime|Thriller,3.871794871794872,"['drugs', 'police']"
+463,1954,Rocky (1976),Drama,3.828125,"['boxing', 'sports']"
+464,1955,Kramer vs. Kramer (1979),Drama,3.892857142857143,['divorce']
+465,1957,Chariots of Fire (1981),Drama,4.038461538461538,"['olympics', 'sports']"
+466,1959,Out of Africa (1985),Drama|Romance,3.6666666666666665,"['adultery', 'africa']"
+467,1960,"Last Emperor, The (1987)",Drama,3.6923076923076925,['china']
+468,1961,Rain Man (1988),Drama,3.8072916666666665,['autism']
+469,1962,Driving Miss Daisy (1989),Drama,3.739130434782609,['rasicm']
+470,1975,Friday the 13th Part 2 (1981),Horror,2.5,['jason']
+471,1976,Friday the 13th Part 3: 3D (1982),Horror,2.2142857142857144,['jason']
+472,1977,Friday the 13th Part IV: The Final Chapter (1984),Horror,2.5833333333333335,['jason']
+473,1978,Friday the 13th Part V: A New Beginning (1985),Horror,2.5,['jason']
+474,1979,Friday the 13th Part VI: Jason Lives (1986),Horror,3.25,['jason']
+475,1983,Halloween II (1981),Horror,2.4,['halloween']
+476,1984,Halloween III: Season of the Witch (1982),Horror,2.1666666666666665,['halloween']
+477,1994,Poltergeist (1982),Horror|Thriller,3.425531914893617,['ghosts']
+478,1995,Poltergeist II: The Other Side (1986),Horror|Thriller,1.6666666666666667,['ghosts']
+479,1996,Poltergeist III (1988),Horror|Thriller,1.875,['ghosts']
+480,1997,"Exorcist, The (1973)",Horror|Mystery,3.80188679245283,['demons']
+481,2006,"Mask of Zorro, The (1998)",Action|Comedy|Romance,3.1,"['california', 'mexico']"
+482,2011,Back to the Future Part II (1989),Adventure|Comedy|Sci-Fi,3.5057471264367814,['time travel']
+483,2019,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,4.1875,['samurai']
+484,2020,Dangerous Liaisons (1988),Drama|Romance,4.0,['adultery']
+485,2022,"Last Temptation of Christ, The (1988)",Drama,3.6875,"['bible', 'katzanzakis']"
+486,2023,"Godfather: Part III, The (1990)",Crime|Drama|Mystery|Thriller,3.3555555555555556,"['al pacino', 'andy garcia', 'classic', 'francis ford coppola', 'mafia']"
+487,2028,Saving Private Ryan (1998),Action|Drama|War,4.1462765957446805,['world war ii']
+488,2054,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi,2.7573529411764706,['disney']
+489,2058,"Negotiator, The (1998)",Action|Crime|Drama|Mystery|Thriller,3.35,['police']
+490,2059,"Parent Trap, The (1998)",Children|Comedy|Romance,3.0,['twins']
+491,2064,Roger & Me (1989),Documentary,3.838709677419355,"['general motors', 'michigan']"
+492,2065,"Purple Rose of Cairo, The (1985)",Comedy|Drama|Fantasy|Romance,3.730769230769231,['in netflix queue']
+493,2066,Out of the Past (1947),Film-Noir,4.125,['memory']
+494,2070,Tender Mercies (1983),Drama|Romance|Western,3.4,['music']
+495,2071,And the Band Played On (1993),Drama,3.25,"['aids', 'in netflix queue']"
+496,2076,Blue Velvet (1986),Drama|Mystery|Thriller,3.9456521739130435,"['sexuality', 'suburbia']"
+497,2078,"Jungle Book, The (1967)",Animation|Children|Comedy|Musical,3.830188679245283,['disney']
+498,2080,Lady and the Tramp (1955),Animation|Children|Comedy|Romance,3.4,['disney']
+499,2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),Adventure|Animation|Children,3.4318181818181817,['disney']
+500,2097,Something Wicked This Way Comes (1983),Children|Drama|Fantasy|Mystery|Thriller,2.9,"['carnival', 'ray bradbury']"
+501,2100,Splash (1984),Comedy|Fantasy|Romance,3.1176470588235294,['mermaid']
+502,2108,L.A. Story (1991),Comedy|Romance,3.4791666666666665,['weather forecaster']
+503,2114,"Outsiders, The (1983)",Drama,3.71875,['s.e. hinton']
+504,2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy,3.638888888888889,['archaeology']
+505,2116,"Lord of the Rings, The (1978)",Adventure|Animation|Children|Fantasy,3.1333333333333333,"['tolkein', 'classic']"
+506,2118,"Dead Zone, The (1983)",Thriller,3.7333333333333334,['stephen king']
+507,2121,Cujo (1983),Horror|Thriller,2.2142857142857144,['stephen king']
+508,2122,Children of the Corn (1984),Horror|Thriller,2.4545454545454546,['stephen king']
+509,2124,"Addams Family, The (1991)",Children|Comedy|Fantasy,3.289473684210526,"['black comedy', 'christina ricci', 'christopher lloyd', 'family', 'gothic', 'quirky']"
+510,2138,Watership Down (1978),Adventure|Animation|Children|Drama|Fantasy,4.05,"['atmospheric', 'beautiful']"
+511,2139,"Secret of NIMH, The (1982)",Adventure|Animation|Children|Drama,3.4761904761904763,['mice']
+512,2145,Pretty in Pink (1986),Comedy|Drama|Romance,3.242424242424242,"['1980s', 'high school']"
+513,2146,St. Elmo's Fire (1985),Drama|Romance,3.21875,['post-college']
+514,2160,Rosemary's Baby (1968),Drama|Horror|Thriller,4.171875,"['atmospheric', 'creepy', 'paranoia', 'scary', 'suspense', 'demons']"
+515,2167,Blade (1998),Action|Horror|Thriller,3.3620689655172415,['vampires']
+516,2171,Next Stop Wonderland (1998),Comedy|Drama|Romance,3.3125,"['aquarium', 'boston', 'personals ads']"
+517,2186,Strangers on a Train (1951),Crime|Drama|Film-Noir|Thriller,3.98,['murder']
+518,2187,Stage Fright (1950),Mystery|Romance|Thriller,3.5,['theater']
+519,2194,"Untouchables, The (1987)",Action|Crime|Drama,3.9384615384615387,"['capone', 'gangsters']"
+520,2202,Lifeboat (1944),Drama|War,4.357142857142857,['survival']
+521,2203,Shadow of a Doubt (1943),Crime|Drama|Thriller,4.142857142857143,['small towns']
+522,2206,Suspicion (1941),Film-Noir|Mystery|Thriller,4.0,['paranoia']
+523,2208,"Lady Vanishes, The (1938)",Drama|Mystery|Thriller,3.9166666666666665,['train']
+524,2243,Broadcast News (1987),Comedy|Drama|Romance,3.4285714285714284,['journalism']
+525,2247,Married to the Mob (1988),Comedy,3.0,['mafia']
+526,2248,Say Anything... (1989),Comedy|Drama|Romance,3.923076923076923,"['in your eyes', 'lloyd dobbler']"
+527,2249,My Blue Heaven (1990),Comedy,3.1818181818181817,['mafia']
+528,2268,"Few Good Men, A (1992)",Crime|Drama|Thriller,3.789473684210526,"['court', 'military']"
+529,2291,Edward Scissorhands (1990),Drama|Fantasy|Romance,3.7,['freaks']
+530,2295,"Impostors, The (1998)",Comedy,4.5,['screwball']
+531,2296,"Night at the Roxbury, A (1998)",Comedy,2.1,['snl']
+532,2300,"Producers, The (1968)",Comedy,3.9696969696969697,['broadway']
+533,2302,My Cousin Vinny (1992),Comedy,3.26271186440678,['court']
+534,2310,"Mighty, The (1998)",Drama,3.6666666666666665,['adolescence']
+535,2312,Children of a Lesser God (1986),Drama,3.8333333333333335,['death penalty']
+536,2313,"Elephant Man, The (1980)",Drama,4.029411764705882,['freaks']
+537,2324,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,4.1477272727272725,"['holocaust', 'bittersweet', 'emotional', 'heartwarming', 'poignant', 'sentimental', 'tear jerker', 'tearjerking']"
+538,2329,American History X (1998),Crime|Drama,4.217054263565892,"['thought-provoking', 'racism', 'edward norton', 'emotional', 'politics']"
+539,2334,"Siege, The (1998)",Action|Thriller,2.8076923076923075,['terrorism']
+540,2335,"Waterboy, The (1998)",Comedy,3.1785714285714284,['football']
+541,2336,Elizabeth (1998),Drama,3.6739130434782608,['england']
+542,2351,"Nights of Cabiria (Notti di Cabiria, Le) (1957)",Drama,4.285714285714286,['in netflix queue']
+543,2355,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,3.516304347826087,['pixar']
+544,2357,Central Station (Central do Brasil) (1998),Drama,4.416666666666667,['south america']
+545,2360,"Celebration, The (Festen) (1998)",Drama,4.458333333333333,['in netflix queue']
+546,2387,Very Bad Things (1998),Comedy|Crime,3.4375,"['dark comedy', 'dark humor']"
+547,2390,Little Voice (1998),Comedy,3.9285714285714284,['in netflix queue']
+548,2391,"Simple Plan, A (1998)",Crime|Drama|Thriller,3.7954545454545454,['heist']
+549,2393,Star Trek: Insurrection (1998),Action|Drama|Romance|Sci-Fi,3.1515151515151514,"['cameo:whoopi goldberg', 'space opera', 'star trek']"
+550,2394,"Prince of Egypt, The (1998)",Animation|Musical,3.5,"['bible', 'moses']"
+551,2396,Shakespeare in Love (1998),Comedy|Drama|Romance,3.777173913043478,['england']
+552,2410,Rocky III (1982),Action|Drama,2.7291666666666665,['boxing']
+553,2411,Rocky IV (1985),Action|Drama,2.706896551724138,['boxing']
+554,2412,Rocky V (1990),Action|Drama,1.9411764705882353,['boxing']
+555,2420,"Karate Kid, The (1984)",Drama,3.5657894736842106,['martial arts']
+556,2421,"Karate Kid, Part II, The (1986)",Action|Adventure|Drama,2.7758620689655173,['martial arts']
+557,2422,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama,1.75,['martial arts']
+558,2423,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),Comedy,3.566666666666667,['christmas']
+559,2424,You've Got Mail (1998),Comedy|Romance,3.12,"['e-mail', 'remake']"
+560,2431,Patch Adams (1998),Comedy|Drama,3.3703703703703702,"['doctors', 'bad']"
+561,2442,Hilary and Jackie (1998),Drama,3.8333333333333335,['in netflix queue']
+562,2463,Ruthless People (1986),Comedy,3.3214285714285716,['kidnapping']
+563,2467,"Name of the Rose, The (Name der Rose, Der) (1986)",Crime|Drama|Mystery|Thriller,3.75,['religion']
+564,2470,Crocodile Dundee (1986),Adventure|Comedy,3.175438596491228,['australia']
+565,2471,Crocodile Dundee II (1988),Action|Adventure|Comedy,2.4791666666666665,['australia']
+566,2491,Simply Irresistible (1999),Comedy|Romance,3.6,['food']
+567,2494,"Last Days, The (1998)",Documentary,4.0,"['holocaust', 'hungary']"
+568,2502,Office Space (1999),Comedy|Crime,4.090425531914893,"['stapler', 'workplace']"
+569,2505,8MM (1999),Drama|Mystery|Thriller,2.9444444444444446,['nicolas cage']
+570,2506,"Other Sister, The (1999)",Comedy|Drama|Romance,3.3333333333333335,['disability']
+571,2517,Christine (1983),Horror,2.95,['stephen king']
+572,2529,Planet of the Apes (1968),Action|Drama|Sci-Fi,3.8035714285714284,['twist ending']
+573,2550,"Haunting, The (1963)",Horror|Thriller,4.0,['ghosts']
+574,2553,Village of the Damned (1960),Horror|Sci-Fi|Thriller,3.0833333333333335,['evil children']
+575,2554,Children of the Damned (1963),Horror|Sci-Fi|Thriller,3.1666666666666665,['evil children']
+576,2565,"King and I, The (1956)",Drama|Musical|Romance,4.166666666666667,['siam']
+577,2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,4.192446043165468,"['martial arts', 'sci-fi', 'alternate universe', 'philosophy', 'post apocalyptic']"
+578,2572,10 Things I Hate About You (1999),Comedy|Romance,3.5277777777777777,['shakespeare sort of']
+579,2579,Following (1998),Crime|Mystery|Thriller,3.8333333333333335,"['black and white', 'christopher nolan', 'directorial debut', 'mindfuck', 'not linear', 'twist ending', 'black and white']"
+580,2581,Never Been Kissed (1999),Comedy|Romance,2.9583333333333335,['high school']
+581,2583,Cookie's Fortune (1999),Comedy|Drama,3.875,['southern us']
+582,2598,Pushing Tin (1999),Comedy,2.84,['golfing']
+583,2600,eXistenZ (1999),Action|Sci-Fi|Thriller,3.8636363636363638,['virtual reality']
+584,2612,Mildred Pierce (1945),Drama|Film-Noir,4.0,['motherhood']
+585,2616,Dick Tracy (1990),Action|Crime,2.8846153846153846,['comic book']
+586,2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi,3.107142857142857,"['prequel', 'the force']"
+587,2640,Superman (1978),Action|Adventure|Sci-Fi,3.6065573770491803,['superhero']
+588,2641,Superman II (1980),Action|Sci-Fi,3.020408163265306,['superhero']
+589,2642,Superman III (1983),Action|Adventure|Sci-Fi,2.25,['superhero']
+590,2648,Frankenstein (1931),Drama|Horror|Sci-Fi,3.909090909090909,['in netflix queue']
+591,2660,"Thing from Another World, The (1951)",Horror|Sci-Fi,3.5,['aliens']
+592,2662,"War of the Worlds, The (1953)",Action|Drama|Sci-Fi,3.1666666666666665,['classic']
+593,2664,Invasion of the Body Snatchers (1956),Horror|Sci-Fi|Thriller,3.769230769230769,['1950s']
+594,2677,Buena Vista Social Club (1999),Documentary|Musical,4.375,['in netflix queue']
+595,2692,Run Lola Run (Lola rennt) (1998),Action|Crime,4.0,['alternate endings']
+596,2693,Trekkies (1997),Documentary,3.375,['star trek']
+597,2694,Big Daddy (1999),Comedy,3.1979166666666665,['adam sandler']
+598,2699,Arachnophobia (1990),Comedy|Horror,2.811320754716981,['spiders']
+599,2700,"South Park: Bigger, Longer and Uncut (1999)",Animation|Comedy|Musical,3.861842105263158,"['adult humor', 'controversial', 'crude humor', 'free speech', 'parody', 'satire', 'south park', 'trey parker']"
+600,2706,American Pie (1999),Comedy|Romance,3.378640776699029,"['best comedy', 'chris klein', 'dumb', 'jason biggs', 'not funny', 'pizza beer', 'seann william scott', 'teen']"
+601,2710,"Blair Witch Project, The (1999)",Drama|Horror|Thriller,2.796875,"['claims to be true', 'video']"
+602,2712,Eyes Wide Shut (1999),Drama|Mystery|Thriller,3.4622641509433962,['sexuality']
+603,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,3.775,['ghosts']
+604,2717,Ghostbusters II (1989),Comedy|Fantasy|Sci-Fi,3.0,['ghosts']
+605,2719,"Haunting, The (1999)",Horror|Thriller,2.1153846153846154,['remake']
+606,2723,Mystery Men (1999),Action|Comedy|Fantasy,3.08974358974359,['superhero']
+607,2726,"Killing, The (1956)",Crime|Film-Noir,4.055555555555555,['heist']
+608,2728,Spartacus (1960),Action|Drama|Romance|War,3.576923076923077,"['crucifixion', 'rome', 'slavery']"
+609,2731,"400 Blows, The (Les quatre cents coups) (1959)",Crime|Drama,4.0,"['emotional', 'gentle', 'heartwarming', 'lyrical', 'reflective']"
+610,2745,"Mission, The (1986)",Drama,3.5,"['missionary', 'priest']"
+611,2750,Radio Days (1987),Comedy|Drama,3.142857142857143,"['nostalgia', 'radio']"
+612,2761,"Iron Giant, The (1999)",Adventure|Animation|Children|Drama|Sci-Fi,4.051282051282051,"['robots', 'animation']"
+613,2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,3.893854748603352,"['atmospheric', 'bruce willis', 'ghosts', 'imdb top 250', 'mindfuck', 'stylized', 'twist ending', 'ghosts', 'i see dead people']"
+614,2787,Cat's Eye (1985),Horror,2.4166666666666665,['stephen king']
+615,2791,Airplane! (1980),Comedy,3.8563218390804597,"['aviation', 'spoof']"
+616,2797,Big (1988),Comedy|Drama|Fantasy|Romance,3.71978021978022,['children']
+617,2801,Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997),Drama|Romance,4.5,['gambling']
+618,2803,"Pelican Brief, The (1993)",Crime|Drama|Mystery|Romance|Thriller,2.923076923076923,['lawyers']
+619,2804,"Christmas Story, A (1983)",Children|Comedy,3.9727272727272727,['christmas']
+620,2827,"Astronaut's Wife, The (1999)",Horror|Sci-Fi|Thriller,2.272727272727273,['aliens']
+621,2863,"Hard Day's Night, A (1964)",Adventure|Comedy|Musical,3.473684210526316,['beatles']
+622,2871,Deliverance (1972),Adventure|Drama|Thriller,3.9,['river']
+623,2872,Excalibur (1981),Adventure|Fantasy,3.64,"['england', 'king arthur']"
+624,2905,Sanjuro (Tsubaki Sanjûrô) (1962),Action|Adventure|Drama,4.25,['in netflix queue']
+625,2915,Risky Business (1983),Comedy,3.4404761904761907,['prostitution']
+626,2918,Ferris Bueller's Day Off (1986),Comedy,3.8394495412844036,['high school']
+627,2919,"Year of Living Dangerously, The (1982)",Drama|Romance|War,3.8125,"['academy award (best supporting actress)', 'indonesia', 'journalism']"
+628,2927,Brief Encounter (1946),Drama|Romance,3.5,['adultery']
+629,2935,"Lady Eve, The (1941)",Comedy|Romance,4.0,['gambling']
+630,2937,"Palm Beach Story, The (1942)",Comedy,4.1,['screwball']
+631,2940,Gilda (1946),Drama|Film-Noir|Mystery|Romance,4.0,['nightclub']
+632,2941,South Pacific (1958),Musical|Romance|War,3.7777777777777777,['island']
+633,2943,Indochine (1992),Drama|Romance,4.166666666666667,['vietnam']
+634,2951,"Fistful of Dollars, A (Per un pugno di dollari) (1964)",Action|Western,3.9358974358974357,['bad']
+635,2952,Sydney (Hard Eight) (1996),Crime|Drama|Thriller,3.5416666666666665,['gambling']
+636,2953,Home Alone 2: Lost in New York (1992),Children|Comedy,2.5161290322580645,"['family', 'funny', 'macaulay culkin', 'sequel']"
+637,2959,Fight Club (1999),Action|Crime|Drama|Thriller,4.272935779816514,"['dark comedy', 'psychology', 'thought-provoking', 'twist ending', 'dark comedy', 'violence', 'action', 'atmospheric', 'based on a book', 'brad pitt', 'challenging', 'chuck palahniuk', 'classic', 'clever', 'complicated', 'consumerism', 'crime', 'dark', 'dark comedy', 'david fincher', 'disturbing', 'double life', 'edward norton', 'fighting', 'great acting', 'helena bonham carter', 'imaginary friend', 'imdb top 250', 'mental illness', 'mind-blowing', 'mindfuck', 'narrated', 'nudity (topless)', 'palahnuik', 'philosophical', 'philosophy', 'postmodern', 'powerful ending', 'psychological', 'psychological thriller', 'psychology', 'quirky', 'satirical', 'schizophrenia', 'social commentary', 'societal criticism', 'stylized', 'surreal', 'terrorism', 'thought-provoking', 'twist', 'twist ending', 'violence', 'violent']"
+638,2966,"Straight Story, The (1999)",Adventure|Drama,3.9285714285714284,"['brothers', 'lawn mower']"
+639,2967,"Bad Seed, The (1956)",Drama|Thriller,4.0,['evil children']
+640,2968,Time Bandits (1981),Adventure|Comedy|Fantasy|Sci-Fi,3.731707317073171,['time travel']
+641,2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,3.5721649484536084,['live action/animation']
+642,3000,Princess Mononoke (Mononoke-hime) (1997),Action|Adventure|Animation|Drama|Fantasy,3.9583333333333335,"['anime', 'adventure', 'atmospheric', 'fantasy world', 'studio ghibli', 'surreal']"
+643,3006,"Insider, The (1999)",Drama|Thriller,3.7419354838709675,"['tobacco', 'true story']"
+644,3007,American Movie (1999),Documentary,3.75,['in netflix queue']
+645,3011,"They Shoot Horses, Don't They? (1969)",Drama,3.25,['dance marathon']
+646,3028,"Taming of the Shrew, The (1967)",Comedy,2.5,['shakespeare']
+647,3030,Yojimbo (1961),Action|Adventure,4.230769230769231,['samurai']
+648,3039,Trading Places (1983),Comedy,3.730769230769231,"['class', 'dan aykroyd']"
+649,3040,Meatballs (1979),Comedy,3.2222222222222223,['camp']
+650,3044,Dead Again (1991),Mystery|Romance|Thriller,3.769230769230769,"['memory', 'music']"
+651,3052,Dogma (1999),Adventure|Comedy|Fantasy,3.6455696202531644,"['irreverent', 'jay and silent bob', 'kevin smith', 'satire', 'religion']"
+652,3060,"Commitments, The (1991)",Comedy|Drama|Musical,3.8666666666666667,['in netflix queue']
+653,3071,Stand and Deliver (1988),Comedy|Drama,3.5,['high school']
+654,3072,Moonstruck (1987),Comedy|Romance,3.5555555555555554,['new york']
+655,3077,42 Up (1998),Documentary,4.0,"['in netflix queue', 'up series']"
+656,3081,Sleepy Hollow (1999),Fantasy|Horror|Mystery|Romance,3.475806451612903,['ichabod crane']
+657,3087,Scrooged (1988),Comedy|Fantasy|Romance,3.1666666666666665,"['christmas', 'new york']"
+658,3095,"Grapes of Wrath, The (1940)",Drama,4.111111111111111,"['depression', 'dust bowl']"
+659,3097,"Shop Around the Corner, The (1940)",Comedy|Drama|Romance,3.6666666666666665,['remade']
+660,3098,"Natural, The (1984)",Drama,3.6458333333333335,"['baseball', 'sports']"
+661,3101,Fatal Attraction (1987),Drama|Thriller,3.0972222222222223,['adultery']
+662,3108,"Fisher King, The (1991)",Comedy|Drama|Fantasy|Romance,3.8055555555555554,['homeless']
+663,3111,Places in the Heart (1984),Drama,4.25,['racism']
+664,3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,3.8608247422680413,"['animation', 'disney', 'funny', 'original', 'pixar', 'sequel', 'tom hanks', 'pixar']"
+665,3115,Flawless (1999),Drama,4.0,['men in drag']
+666,3125,"End of the Affair, The (1999)",Drama,4.0,['graham greene']
+667,3134,Grand Illusion (La grande illusion) (1937),Drama|War,3.7142857142857144,"['downbeat', 'poignant']"
+668,3135,"Great Santini, The (1979)",Drama,3.6666666666666665,['fatherhood']
+669,3147,"Green Mile, The (1999)",Crime|Drama,4.148648648648648,['stephen king']
+670,3152,"Last Picture Show, The (1971)",Drama,4.5,['black-and-white']
+671,3160,Magnolia (1999),Drama,3.7115384615384617,['l.a.']
+672,3174,Man on the Moon (1999),Comedy|Drama,3.4871794871794872,['andy kaufman']
+673,3175,Galaxy Quest (1999),Adventure|Comedy|Sci-Fi,3.58,['spoof']
+674,3176,"Talented Mr. Ripley, The (1999)",Drama|Mystery|Thriller,3.336734693877551,"['based on a book', 'creepy', 'disturbing', 'jude law', 'murder', 'obsession', 'psychology', 'secrets', 'serial killer', 'suspense', 'europe', 'murder']"
+675,3178,"Hurricane, The (1999)",Drama,3.53125,['boxing']
+676,3181,Titus (1999),Drama,3.9166666666666665,['shakespeare']
+677,3186,"Girl, Interrupted (1999)",Drama,3.4642857142857144,"['asylum', 'based on a true story', 'brittany murphy', 'mental hospital', 'psychology', 'winona ryder']"
+678,3192,"Terrorist, The (a.k.a. Malli) (Theeviravaathi) (1998)",Drama,3.0,['in netflix queue']
+679,3210,Fast Times at Ridgemont High (1982),Comedy|Drama|Romance,3.4761904761904763,['high school']
+680,3211,"Cry in the Dark, A (1988)",Drama,3.75,"['a dingo ate my baby', 'australia']"
+681,3247,Sister Act (1992),Comedy|Crime,3.0277777777777777,['nuns']
+682,3250,Alive (1993),Drama,3.1666666666666665,['in netflix queue']
+683,3258,Death Becomes Her (1992),Comedy|Fantasy,2.8666666666666667,['plastic surgery']
+684,3259,Far and Away (1992),Adventure|Drama|Romance,3.1363636363636362,['ireland']
+685,3260,Howards End (1992),Drama,4.0,['e.m. forster']
+686,3263,White Men Can't Jump (1992),Comedy|Drama,3.0454545454545454,['basketball']
+687,3265,Hard-Boiled (Lat sau san taam) (1992),Action|Crime|Drama|Thriller,4.0,"['gun fu', 'heroic bloodshed']"
+688,3266,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,4.5,"['black comedy', 'crazy', 'dark', 'dark comedy', 'dark humor', 'serial killer']"
+689,3270,"Cutting Edge, The (1992)",Comedy|Drama|Romance,2.7916666666666665,['figure skating']
+690,3273,Scream 3 (2000),Comedy|Horror|Mystery|Thriller,2.6724137931034484,"['slasher', 'spoof']"
+691,3281,"Brandon Teena Story, The (1998)",Documentary,2.0,['sexuality']
+692,3306,"Circus, The (1928)",Comedy,4.125,"['big top', 'circus']"
+693,3307,City Lights (1931),Comedy|Drama|Romance,3.8461538461538463,['blind']
+694,3310,"Kid, The (1921)",Comedy|Drama,4.1,['orphans']
+695,3317,Wonder Boys (2000),Comedy|Drama,3.659090909090909,['writing']
+696,3330,Splendor in the Grass (1961),Drama|Romance,4.25,"['adolescence', 'sexuality']"
+697,3341,Born Yesterday (1950),Comedy,4.285714285714286,['remade']
+698,3360,Hoosiers (a.k.a. Best Shot) (1986),Drama|Romance,3.7045454545454546,['basketball']
+699,3384,"Taking of Pelham One Two Three, The (1974)",Action|Crime,4.5,['subway']
+700,3385,Volunteers (1985),Comedy,2.8125,['peace corp']
+701,3386,JFK (1991),Drama|Mystery|Thriller,3.5,"['politics', 'president']"
+702,3408,Erin Brockovich (2000),Drama,3.5285714285714285,"['scandal', 'true story']"
+703,3420,...And Justice for All (1979),Drama|Thriller,3.1666666666666665,['lawyers']
+704,3421,Animal House (1978),Comedy,3.693548387096774,"['college', 'toga']"
+705,3424,Do the Right Thing (1989),Drama,4.037037037037037,"['racism', 'great cinematography']"
+706,3429,Creature Comforts (1989),Animation|Comedy,4.25,['aardman']
+707,3435,Double Indemnity (1944),Crime|Drama|Film-Noir,4.323529411764706,['insurance']
+708,3447,"Good Earth, The (1937)",Drama,4.0,['pearl s buck']
+709,3451,Guess Who's Coming to Dinner (1967),Drama,4.545454545454546,"['hepburn and tracy', 'interracial marriage', 'prejudice', 'racism']"
+710,3461,Lord of the Flies (1963),Adventure|Drama|Thriller,3.0384615384615383,['island']
+711,3462,Modern Times (1936),Comedy|Drama|Romance,3.72,['factory']
+712,3468,"Hustler, The (1961)",Drama,4.333333333333333,['pool']
+713,3469,Inherit the Wind (1960),Drama,4.083333333333333,"['court', 'evolution', 'religion']"
+714,3475,"Place in the Sun, A (1951)",Drama|Romance,4.5,['class']
+715,3481,High Fidelity (2000),Comedy|Drama|Romance,3.6666666666666665,"['music', 'nick hornby']"
+716,3489,Hook (1991),Adventure|Comedy|Fantasy,3.358490566037736,['peter pan']
+717,3498,Midnight Express (1978),Drama,4.0,['in netflix queue']
+718,3499,Misery (1990),Drama|Horror|Thriller,3.840909090909091,"['claustrophobic', 'horror', 'scary', 'stephen king', 'suspenseful', 'tense', 'thriller']"
+719,3502,My Life (1993),Drama,3.5,['death']
+720,3504,Network (1976),Comedy|Drama,4.0227272727272725,['journalism']
+721,3507,"Odd Couple, The (1968)",Comedy,4.066666666666666,['in netflix queue']
+722,3512,Return to Me (2000),Drama|Romance,3.5625,['transplants']
+723,3515,Me Myself I (2000),Comedy|Romance,3.611111111111111,['alternate endings']
+724,3526,Parenthood (1989),Comedy|Drama,3.7,['families']
+725,3527,Predator (1987),Action|Sci-Fi|Thriller,3.581967213114754,"['aliens', 'sci-fi', 'scifi cult', 'aliens', 'arnold schwarzenegger', 'dialogue', 'guns', 'jesse ventura', 'macho', 'sci-fi', 'scifi cult']"
+726,3528,"Prince of Tides, The (1991)",Drama|Romance,3.4,['psychiatrist']
+727,3536,Keeping the Faith (2000),Comedy|Drama|Romance,3.4523809523809526,"['priest', 'rabbi']"
+728,3546,What Ever Happened to Baby Jane? (1962),Drama|Horror|Thriller,4.5,['show business']
+729,3548,Auntie Mame (1958),Comedy|Drama,3.7,['1920s']
+730,3549,Guys and Dolls (1955),Comedy|Musical|Romance,3.9375,['gambling']
+731,3552,Caddyshack (1980),Comedy,3.826923076923077,['golf']
+732,3556,"Virgin Suicides, The (1999)",Drama|Romance,3.769230769230769,"['sofia coppola', '1970s', 'suicide']"
+733,3559,Limelight (1952),Comedy|Drama|Romance,3.6666666666666665,['in netflix queue']
+734,3566,"Big Kahuna, The (2000)",Comedy|Drama,2.875,"['business', 'religion']"
+735,3578,Gladiator (2000),Action|Adventure|Drama,3.9382352941176473,"['ancient rome', 'epic', 'history', 'imdb top 250', 'revenge', 'rome', 'russell crowe', 'romans']"
+736,3608,Pee-wee's Big Adventure (1985),Adventure|Comedy,2.94,['pee wee herman']
+737,3629,"Gold Rush, The (1925)",Adventure|Comedy|Romance,4.071428571428571,['mining']
+738,3671,Blazing Saddles (1974),Comedy|Western,3.935483870967742,"['dark humor', 'easygoing', 'silly']"
+739,3675,White Christmas (1954),Comedy|Musical|Romance,4.1875,['christmas']
+740,3676,Eraserhead (1977),Drama|Horror,3.75,"['in netflix queue', 'art house', 'atmospheric', 'creepy', 'cryptic', 'dark', 'disturbing', 'dreamlike', 'enigmatic', 'fucked up', 'gruesome', 'hallucinatory', 'insane', 'paranoid', 'strange', 'surreal', 'weird']"
+741,3683,Blood Simple (1984),Crime|Drama|Film-Noir,4.0,['coen brothers']
+742,3712,Soapdish (1991),Comedy,2.8333333333333335,['television']
+743,3723,Hamlet (1990),Drama,3.8,['shakespeare']
+744,3724,Coming Home (1978),Drama|War,3.3,['vietnam']
+745,3730,"Conversation, The (1974)",Drama|Mystery,4.205882352941177,['spying']
+746,3735,Serpico (1973),Crime|Drama,3.7941176470588234,['police']
+747,3793,X-Men (2000),Action|Adventure|Sci-Fi,3.699248120300752,"['action', 'comic book', 'hugh jackman', 'marvel', 'superhero', 'superhero']"
+748,3801,Anatomy of a Murder (1959),Drama|Mystery,4.0,['court']
+749,3811,Breaker Morant (1980),Drama|War,3.9285714285714284,['court']
+750,3816,"Official Story, The (La historia oficial) (1985)",Drama,4.0,['missing children']
+751,3844,Steel Magnolias (1989),Drama,3.3333333333333335,['diabetes']
+752,3849,The Spiral Staircase (1945),Horror|Mystery|Thriller,4.0,['disability']
+753,3859,"Eyes of Tammy Faye, The (2000)",Documentary,3.75,"['in netflix queue', 'televangelist']"
+754,3877,Supergirl (1984),Action|Adventure|Fantasy,2.2222222222222223,['superhero']
+755,3897,Almost Famous (2000),Drama,3.8674698795180724,"['music', 'journalism', 'music', 'rolling stone']"
+756,3910,Dancer in the Dark (2000),Drama|Musical,3.975,"['blindness', 'factory']"
+757,3911,Best in Show (2000),Comedy,3.688679245283019,"['satire', 'dogs']"
+758,3932,"Invisible Man, The (1933)",Horror|Sci-Fi,3.5,['invisibility']
+759,3948,Meet the Parents (2000),Comedy,3.4175824175824174,"['comedy', 'robert de niro']"
+760,3949,Requiem for a Dream (2000),Drama,3.921875,"['drug abuse', 'depressing', 'psychology']"
+761,3951,Two Family House (2000),Drama,5.0,['in netflix queue']
+762,3967,Billy Elliot (2000),Drama,3.8513513513513513,['ballet']
+763,3983,You Can Count on Me (2000),Drama|Romance,4.166666666666667,['family']
+764,3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),Children|Comedy|Fantasy,3.0454545454545454,['dr. seuss']
+765,3994,Unbreakable (2000),Drama|Sci-Fi,3.4794520547945207,"['superhero', 'atmospheric', 'comics', 'father-son relationship', 'mindfuck', 'unique', 'atmospheric', 'somber']"
+766,3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Action|Drama|Romance,3.8363636363636364,"['china', 'martial arts']"
+767,4007,Wall Street (1987),Drama,3.75,['business']
+768,4012,Punchline (1988),Comedy|Drama,2.5,['stand-up comedy']
+769,4015,"Dude, Where's My Car? (2000)",Comedy|Sci-Fi,2.727272727272727,['bad']
+770,4019,Finding Forrester (2000),Drama,3.7142857142857144,['writing']
+771,4024,"House of Mirth, The (2000)",Romance,2.1666666666666665,['edith wharton']
+772,4025,Miss Congeniality (2000),Comedy|Crime,3.0546875,['pageant']
+773,4027,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime,3.8085106382978724,['bluegrass']
+774,4029,State and Main (2000),Comedy|Drama,3.875,['movies']
+775,4034,Traffic (2000),Crime|Drama|Thriller,3.9,"['drugs', 'based on a tv show']"
+776,4046,Friendly Persuasion (1956),Drama,4.0,['quakers']
+777,4077,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)",Drama|Thriller,4.5,['psychopaths']
+778,4105,"Evil Dead, The (1981)",Fantasy|Horror|Thriller,3.8181818181818183,['zombies']
+779,4113,"Glass Menagerie, The (1987)",Drama,3.0,['tennessee williams']
+780,4117,Hope and Glory (1987),Drama,4.333333333333333,['in netflix queue']
+781,4138,My Demon Lover (1987),Comedy|Horror,1.0,['demons']
+782,4144,In the Mood For Love (Fa yeung nin wa) (2000),Drama|Romance,4.214285714285714,"['atmospheric', 'beautiful', 'bittersweet', 'dreamy', 'elegant', 'heartbreaking', 'intimate', 'loneliness', 'long takes', 'longing', 'melancholic', 'melancholy', 'moody', 'nocturnal', 'romantic', 'unique', 'visually appealing', 'visually stunning']"
+783,4160,"Widow of St. Pierre, The (Veuve de Saint-Pierre, La) (2000)",Drama|Romance,4.125,['death penalty']
+784,4164,"Caveman's Valentine, The (2001)",Drama,3.5,"['homeless', 'new york']"
+785,4166,Series 7: The Contenders (2001),Action|Drama,2.5,['reality tv']
+786,4171,Long Night's Journey Into Day (2000),Documentary,4.0,"[""eugene o'neill""]"
+787,4174,Avalon (1990),Drama,3.0,['in netflix queue']
+788,4184,"Bishop's Wife, The (1947)",Comedy|Drama|Romance,4.0,['christmas']
+789,4189,"Greatest Story Ever Told, The (1965)",Drama,2.5,"['bible', 'religion']"
+790,4190,Elmer Gantry (1960),Drama,4.0,"['preacher', 'religion']"
+791,4191,Alfie (1966),Comedy|Drama|Romance,3.25,['sexuality']
+792,4204,Losin' It (1983),Comedy,1.0,['virginity']
+793,4210,Manhunter (1986),Action|Crime|Drama|Horror|Thriller,3.9166666666666665,"['hannibal lecter', 'serial killer']"
+794,4211,Reversal of Fortune (1990),Drama,3.75,['von bulow']
+795,4214,Revenge of the Nerds (1984),Comedy,2.8846153846153846,['college']
+796,4218,River's Edge (1986),Crime|Drama,3.5,['in netflix queue']
+797,4221,Necessary Roughness (1991),Comedy,2.625,['football']
+798,4223,Enemy at the Gates (2001),Drama|War,3.5125,"['ed harris', 'jude law', 'rachel weisz', 'sniper', 'world war ii']"
+799,4226,Memento (2000),Mystery|Thriller,4.122641509433962,"['dark', 'mindfuck', 'nonlinear', 'psychology', 'twist ending', 'mystery', 'psychological', 'twist ending', 'backwards. memory', 'mystery', 'twist ending', 'cerebral', 'dreamlike']"
+800,4232,Spy Kids (2001),Action|Adventure|Children|Comedy,2.9464285714285716,['spying']
+801,4246,Bridget Jones's Diary (2001),Comedy|Drama|Romance,3.623076923076923,['singletons']
+802,4259,"Luzhin Defence, The (2000)",Drama|Romance,3.5,['nabokov']
+803,4262,Scarface (1983),Action|Crime|Drama,3.9328358208955225,['al pacino']
+804,4263,Days of Wine and Roses (1962),Drama,4.0,['alcoholism']
+805,4292,Norma Rae (1979),Drama,3.5,['union']
+806,4296,Love Story (1970),Drama|Romance,3.0,['death']
+807,4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,3.8676470588235294,['fairy tales']
+808,4312,Himalaya (Himalaya - l'enfance d'un chef) (1999),Adventure|Drama,3.5,['in netflix queue']
+809,4316,Ice Castles (1978),Drama,2.0,['figure skating']
+810,4326,Mississippi Burning (1988),Crime|Drama|Thriller,3.590909090909091,"['race', 'rasicm']"
+811,4333,Throw Momma from the Train (1987),Comedy|Crime,3.2,['strangers on a train']
+812,4343,Evolution (2001),Comedy|Sci-Fi,3.037037037037037,"['really bad', 'seann william scott']"
+813,4347,Divided We Fall (Musíme si pomáhat) (2000),Comedy|Drama,3.8333333333333335,['holocaust']
+814,4356,Gentlemen Prefer Blondes (1953),Comedy|Musical|Romance,3.8,['in netflix queue']
+815,4359,"Seven Year Itch, The (1955)",Comedy,3.375,['adultery']
+816,4361,Tootsie (1982),Comedy|Romance,3.421875,['men in drag']
+817,4370,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi,3.3392857142857144,"['android(s)/cyborg(s)', 'artificial intelligence', 'bittersweet', 'steven spielberg', 'robots']"
+818,4380,"Princess and the Warrior, The (Krieger und die Kaiserin, Der) (2000)",Drama|Romance,3.857142857142857,['accident']
+819,4396,"Cannonball Run, The (1981)",Action|Comedy,2.75,['race']
+820,4404,Faust (1926),Drama|Fantasy|Horror,4.0,['in netflix queue']
+821,4446,Final Fantasy: The Spirits Within (2001),Adventure|Animation|Fantasy|Sci-Fi,3.3548387096774195,['sci-fi']
+822,4447,Legally Blonde (2001),Comedy|Romance,3.15625,['lawyers']
+823,4448,"Score, The (2001)",Action|Drama,3.55,"['heist', 'boring']"
+824,4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,"['claymation', 'creativity', 'dystopia', 'free to download', 'imagination', 'no dialogue', 'social commentary']"
+825,4465,"Accused, The (1988)",Drama,3.7,['rape']
+826,4476,Big Business (1988),Comedy,2.3333333333333335,['twins']
+827,4477,Big Top Pee-Wee (1988),Adventure|Children|Comedy,1.9375,['circus']
+828,4489,Coming to America (1988),Comedy|Romance,3.4583333333333335,"['africa', 'immigrants']"
+829,4495,Crossing Delancey (1988),Comedy|Romance,5.0,['new york']
+830,4526,My Stepmother Is an Alien (1988),Comedy|Romance|Sci-Fi,3.1,['aliens']
+831,4537,Running on Empty (1988),Drama,4.333333333333333,['hippies']
+832,4545,Short Circuit (1986),Comedy|Sci-Fi,3.275,['robots']
+833,4546,"Vanishing, The (Spoorloos) (1988)",Drama|Thriller,3.9166666666666665,"['kidnapping', 'remade']"
+834,4552,"Tetsuo, the Ironman (Tetsuo) (1988)",Action|Horror|Sci-Fi|Thriller,3.5,"['""artsy""', 'atmospheric', 'gritty', 'hallucinatory', 'surreal', 'visually stunning']"
+835,4558,Twins (1988),Comedy,2.4642857142857144,['twins']
+836,4571,Bill & Ted's Excellent Adventure (1989),Adventure|Comedy|Sci-Fi,3.7,['time travel']
+837,4600,Gross Anatomy (a.k.a. A Cut Above) (1989),Comedy|Drama,3.25,['doctors']
+838,4612,Jesus of Montreal (Jésus de Montréal) (1989),Drama,4.5,['reciprocal spectator']
+839,4621,Look Who's Talking (1989),Comedy|Romance,2.388888888888889,['babies']
+840,4623,Major League (1989),Comedy,3.575,['baseball']
+841,4638,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller,2.8472222222222223,['dinosaurs']
+842,4639,America's Sweethearts (2001),Comedy|Romance,2.5833333333333335,"['hollywood', 'movie business']"
+843,4641,Ghost World (2001),Comedy|Drama,3.5,['adolescence']
+844,4677,Turner & Hooch (1989),Comedy|Crime,3.0384615384615383,['dogs']
+845,4678,UHF (1989),Comedy,3.4444444444444446,['television']
+846,4688,Black Robe (1991),Adventure|Drama,3.3333333333333335,['in netflix queue']
+847,4708,Marat/Sade (1966),Drama|Musical,4.5,['reciprocal spectator']
+848,4725,Session 9 (2001),Horror|Thriller,3.625,"['mental hospital', 'psychology', 'suspense', 'well done']"
+849,4787,Little Man Tate (1991),Drama,3.35,['prodigies']
+850,4801,"Little Foxes, The (1941)",Drama,4.0,['family']
+851,4808,"Vanishing, The (1993)",Mystery|Thriller,2.375,['remake']
+852,4809,Silkwood (1983),Drama,4.166666666666667,"['nuclear disaster', 'union']"
+853,4812,SpaceCamp (1986),Adventure|Sci-Fi,2.1666666666666665,"['nasa', 'space']"
+854,4816,Zoolander (2001),Comedy,3.509259259259259,"['ben stiller', 'comedy', 'david bowie', 'goofy', 'mindless one liners', 'will ferrell']"
+855,4823,Serendipity (2001),Comedy|Romance,3.14,['wedding']
+856,4835,Coal Miner's Daughter (1980),Drama,3.5,['loretta lynn']
+857,4857,Fiddler on the Roof (1971),Drama|Musical,3.8125,"['judaism', 'tradition!']"
+858,4874,K-PAX (2001),Drama|Fantasy|Mystery|Sci-Fi,3.484848484848485,"['aliens', 'psychiatrist']"
+859,4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,3.981651376146789,"['atmospheric', 'cult film', 'dreamlike', 'hallucinatory', 'psychological', 'surreal', 'time travel', 'jake gyllenhaal', 'time travel', 'dreamlike', 'hallucinatory', 'mental illness', 'psychology', 'social commentary', 'teen', 'thought-provoking', 'atmospheric', 'cerebral', 'dreamlike', 'enigmatic', 'hallucinatory', 'mental illness', 'mindfuck', 'philosophy', 'psychological', 'quirky', 'surreal', 'thought-provoking', 'weird']"
+860,4881,"Man Who Wasn't There, The (2001)",Crime|Drama,3.735294117647059,['coen brothers']
+861,4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy,3.7616822429906542,"['everything you want is here', 'alan rickman', 'harry potter', 'humorous', 'magic', 'magic', 'wizards']"
+862,4902,"Devil's Backbone, The (Espinazo del diablo, El) (2001)",Drama|Fantasy|Horror|Thriller|War,3.35,['ghosts']
+863,4920,"Now, Voyager (1942)",Drama|Romance,3.6666666666666665,['psychology']
+864,4963,Ocean's Eleven (2001),Crime|Thriller,3.8445378151260505,['heist']
+865,4969,And Then There Were None (1945),Crime|Mystery,3.625,['in netflix queue']
+866,4970,"Blue Angel, The (Blaue Engel, Der) (1930)",Drama,4.0,"['nightclub', 'singers']"
+867,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,4.183333333333334,['whimsical']
+868,4979,"Royal Tenenbaums, The (2001)",Comedy|Drama,3.6838235294117645,['new york']
+869,4980,Bill & Ted's Bogus Journey (1991),Adventure|Comedy|Fantasy|Sci-Fi,3.075,['time travel']
+870,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,4.106060606060606,"['fantasy', 'high fantasy', 'magic', 'mythology', 'tolkien', 'wizards', 'tolkein']"
+871,4995,"Beautiful Mind, A (2001)",Drama|Romance,4.0,['mathematics']
+872,4998,"Defiant Ones, The (1958)",Adventure|Crime|Drama|Thriller,3.5,['racism']
+873,5008,Witness for the Prosecution (1957),Drama|Mystery|Thriller,4.388888888888889,"['agatha christie', 'court']"
+874,5012,Yentl (1983),Drama|Musical|Romance,4.0,"['cross dressing', 'judaism']"
+875,5015,Monster's Ball (2001),Drama|Romance,3.3055555555555554,['race']
+876,5034,"Truly, Madly, Deeply (1991)",Drama|Romance,3.6666666666666665,['ghost']
+877,5064,The Count of Monte Cristo (2002),Action|Adventure|Drama|Thriller,3.828125,"['dumas', 'revenge', 'remake']"
+878,5088,"Going Places (Valseuses, Les) (1974)",Comedy|Crime|Drama,5.0,['irreverent']
+879,5114,"Bad and the Beautiful, The (1952)",Drama,4.0,['movie business']
+880,5120,Sleuth (1972),Comedy|Mystery|Thriller,4.166666666666667,['in netflix queue']
+881,5135,Monsoon Wedding (2001),Comedy|Romance,3.8333333333333335,['india']
+882,5139,"Bad News Bears, The (1976)",Comedy,3.2777777777777777,['baseball']
+883,5213,"Oh, God! Book II (1980)",Comedy,1.5,['religion']
+884,5224,Promises (2001),Documentary,4.25,['in netflix queue']
+885,5238,Return of the Secaucus 7 (1980),Drama,3.5,['in netflix queue']
+886,5254,Blade II (2002),Action|Horror|Thriller,3.2058823529411766,"['great movie', 'wesley snipes']"
+887,5266,Panic Room (2002),Thriller,3.0,['crime']
+888,5291,Rashomon (Rashômon) (1950),Crime|Drama|Mystery,3.9444444444444446,"['black and white', 'samurai', 'in netflix queue', 'samurai']"
+889,5294,Frailty (2001),Crime|Drama|Thriller,3.8636363636363638,['religion']
+890,5304,"Rome, Open City (a.k.a. Open City) (Roma, città aperta) (1945)",Drama|War,4.0,['in netflix queue']
+891,5316,Enigma (2001),Romance|Thriller,3.142857142857143,['world war ii']
+892,5349,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller,3.540983606557377,['superhero']
+893,5353,Butterflies Are Free (1972),Comedy|Drama,3.0,['blind']
+894,5377,About a Boy (2002),Comedy|Drama|Romance,3.715909090909091,['nick hornby']
+895,5379,"Believer, The (2001)",Drama,4.25,"['anti-semitism', 'judaism']"
+896,5388,Insomnia (2002),Action|Crime|Drama|Mystery|Thriller,3.303030303030303,"['al pacino', 'atmospheric', 'hilary swank', 'robin williams', 'atmospheric', 'insomnia', 'thought-provoking']"
+897,5398,Requiem for a Heavyweight (1962),Drama,4.0,['boxing']
+898,5404,84 Charing Cross Road (1987),Drama|Romance,4.5,['books']
+899,5445,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,3.6375,['future']
+900,5446,Rabbit-Proof Fence (2002),Adventure|Drama,3.642857142857143,['australia']
+901,5450,Lovely & Amazing (2001),Comedy|Drama|Romance,3.2,"['sisterhood', 'women']"
+902,5451,Pumpkin (2002),Comedy|Drama|Romance,3.0,"['disability', 'mental illness']"
+903,5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),Action|Comedy|Sci-Fi,2.959016393442623,"['crappy sequel', 'first was much better', 'sequel']"
+904,5464,Road to Perdition (2002),Crime|Drama,3.520408163265306,"['cinematography', 'tom hanks']"
+905,5470,The Importance of Being Earnest (1952),Comedy|Romance,4.333333333333333,['oscar wilde']
+906,5475,Z (1969),Drama|Mystery|Thriller,3.8333333333333335,['in netflix queue']
+907,5483,"Kid Stays in the Picture, The (2002)",Documentary,3.8333333333333335,['movie business']
+908,5498,Red Beard (Akahige) (1965),Drama,4.5,['in netflix queue']
+909,5502,Signs (2002),Horror|Sci-Fi|Thriller,3.1666666666666665,['aliens']
+910,5505,"Good Girl, The (2002)",Comedy|Drama,3.2083333333333335,"['adultery', 'younger men']"
+911,5527,Possession (2002),Drama|Romance,3.5,"['as byatt', 'books']"
+912,5528,One Hour Photo (2002),Drama|Thriller,3.473684210526316,"['photography', 'psychopaths']"
+913,5548,Down and Out in Beverly Hills (1986),Comedy,3.0,['homeless']
+914,5577,Igby Goes Down (2002),Comedy|Drama,3.6666666666666665,['adolescence']
+915,5601,"Yearling, The (1946)",Children|Drama,4.0,['animal movie']
+916,5603,"Lavender Hill Mob, The (1951)",Comedy|Crime,4.5,"['crime', 'heist']"
+917,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,4.155172413793103,['anime']
+918,5629,Jonah: A VeggieTales Movie (2002),Animation|Children|Musical,2.0,['bible']
+919,5630,Red Dragon (2002),Crime|Mystery|Thriller,3.435483870967742,['hannibal lecter']
+920,5633,Heaven (2002),Drama,3.75,['bombs']
+921,5644,"Pride of the Yankees, The (1942)",Drama,3.5,"['baseball', 'lou gehrig']"
+922,5669,Bowling for Columbine (2002),Documentary,3.7758620689655173,['violence in america']
+923,5673,Punch-Drunk Love (2002),Comedy|Drama|Romance,3.621212121212121,"['pudding', 'anger', 'awkward', 'bittersweet', 'hallucinatory', 'quirky', 'sad', 'surreal', 'symbolism', 'tense', 'unconventional', 'unique', 'wistful']"
+924,5682,"Grey Zone, The (2001)",Drama,3.25,['holocaust']
+925,5685,Real Women Have Curves (2002),Comedy|Drama,4.25,['girl power']
+926,5690,Grave of the Fireflies (Hotaru no haka) (1988),Animation|Drama|War,4.15625,"['made me cry', 'orphans', 'beautiful', 'downbeat', 'grim', 'poignant', 'tear jerker', 'tragedy', 'tragic']"
+927,5694,Staying Alive (1983),Comedy|Drama|Musical,2.25,['70mm']
+928,5747,Gallipoli (1981),Drama|War,4.285714285714286,['world war i']
+929,5791,Frida (2002),Drama|Romance,3.78125,['art']
+930,5792,Roger Dodger (2002),Comedy|Drama,3.6666666666666665,['dating']
+931,5802,"World of Henry Orient, The (1964)",Comedy,4.0,['teenagers']
+932,5812,Far from Heaven (2002),Drama|Romance,3.8636363636363638,['salute to douglas sirk']
+933,5816,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy,3.5980392156862746,"['magic', 'wizards']"
+934,5820,Standing in the Shadows of Motown (2002),Documentary|Musical,3.5,['music business']
+935,5875,Personal Velocity (2002),Drama,2.5,['short films']
+936,5876,"Quiet American, The (2002)",Drama|Thriller|War,3.9,['graham greene']
+937,5878,Talk to Her (Hable con Ella) (2002),Drama|Romance,4.035714285714286,['coma']
+938,5899,Zulu (1964),Action|Drama|War,4.0,['africa']
+939,5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,4.0212765957446805,"['myth', 'tolkein']"
+940,5954,25th Hour (2002),Crime|Drama,3.840909090909091,"['crime', 'nightclub']"
+941,5971,My Neighbor Totoro (Tonari no Totoro) (1988),Animation|Children|Drama|Fantasy,3.9594594594594597,['anime']
+942,5989,Catch Me If You Can (2002),Crime|Drama,3.9217391304347826,"['crime', 'cheating', 'intelligent', 'leonardo dicaprio', 'lies', 'smart', 'tom hanks', 'twists & turns']"
+943,5991,Chicago (2002),Comedy|Crime|Drama|Musical,3.7244897959183674,"['court', 'jazz', 'murder']"
+944,5994,Nicholas Nickleby (2002),Drama|Romance,4.0,['dickens']
+945,5995,"Pianist, The (2002)",Drama|War,4.108695652173913,"['holocaust', 'true story', 'holocaust']"
+946,6002,Love Liza (2002),Drama,3.3333333333333335,"['drugs', 'planes', 'widows/widowers']"
+947,6003,Confessions of a Dangerous Mind (2002),Comedy|Crime|Drama|Thriller,3.6,['television']
+948,6016,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,4.1466666666666665,"['multiple storylines', 'true story', 'crime', 'photography', 'violence', 'not seen']"
+949,6020,Alice Adams (1935),Comedy|Drama,3.5,['class']
+950,6027,Dogfight (1991),Drama|Romance,4.166666666666667,['in netflix queue']
+951,6031,Imitation of Life (1959),Drama|Romance,3.5,"['motherhood', 'race']"
+952,6041,Amen. (2002),Drama,3.8333333333333335,['in netflix queue']
+953,6058,Final Destination 2 (2003),Horror|Thriller,3.05,"['sequel', 'violent']"
+954,6063,May (2002),Drama|Horror,3.3333333333333335,['doll']
+955,6090,Kiss Me Goodbye (1982),Comedy,3.5,['ghosts']
+956,6101,Missing (1982),Drama|Mystery|Thriller,4.0,"['chile', 'politics', 'south america']"
+957,6104,Monty Python Live at the Hollywood Bowl (1982),Comedy,4.166666666666667,['spoof']
+958,6107,"Night of the Shooting Stars (Notte di San Lorenzo, La) (1982)",Drama|War,4.0,['world war ii']
+959,6156,Shanghai Knights (2003),Action|Adventure|Comedy,3.210526315789474,['england']
+960,6157,Daredevil (2003),Action|Crime,2.5,"['bad', 'ben affleck']"
+961,6159,All the Real Girls (2003),Drama|Romance,4.25,['adolescence']
+962,6163,He Loves Me... He Loves Me Not (À la folie... pas du tout) (2002),Romance|Thriller,4.5,['obsession']
+963,6170,"Black Stallion, The (1979)",Adventure|Children|Drama,3.5,['horses']
+964,6178,"Patch of Blue, A (1965)",Drama|Romance,4.0,"['blind', 'blindness', 'race']"
+965,6181,"Red Badge of Courage, The (1951)",Drama|War,4.0,"['civil war', 'stephen crane']"
+966,6183,Pillow Talk (1959),Comedy|Musical|Romance,3.8333333333333335,"['day and hudson', 'sexuality']"
+967,6188,Old School (2003),Comedy,3.5128205128205128,"['comedy', 'will ferrell']"
+968,6195,Stone Reader (2002),Documentary,4.0,"['books', 'stones of summer']"
+969,6197,Spider (2002),Drama|Mystery,3.3333333333333335,['mental illness']
+970,6201,Lady Jane (1986),Drama|Romance,5.0,['england']
+971,6214,Irreversible (Irréversible) (2002),Crime|Drama|Mystery|Thriller,3.888888888888889,"['dark', 'disturbing']"
+972,6216,Nowhere in Africa (Nirgendwo in Afrika) (2001),Drama,3.75,['world war ii']
+973,6218,Bend It Like Beckham (2002),Comedy|Drama|Romance,3.3,['soccer']
+974,6228,"Talk of the Town, The (1942)",Comedy|Romance|Thriller,4.0,['in netflix queue']
+975,6232,Born Free (1966),Adventure|Children|Drama,4.0,"['animal movie', 'lions']"
+976,6235,Europa Europa (Hitlerjunge Salomon) (1990),Drama|War,4.333333333333333,"['holocaust', 'world war ii']"
+977,6238,Green Card (1990),Comedy|Drama|Romance,2.8333333333333335,['immigrants']
+978,6242,Ringu (Ring) (1998),Horror|Mystery|Thriller,3.4545454545454546,['television']
+979,6244,Salaam Bombay! (1988),Drama,3.5,['in netflix queue']
+980,6245,Sweet Charity (1969),Comedy|Drama|Musical|Romance,3.5,['prostitution']
+981,6254,"Awful Truth, The (1937)",Comedy|Romance,4.75,['screwball']
+982,6268,Raising Victor Vargas (2002),Comedy|Drama|Romance,3.75,['adolescence']
+983,6269,Stevie (2002),Documentary,4.25,['big brothers']
+984,6273,In a Lonely Place (1950),Drama|Film-Noir|Mystery|Romance,3.5,['l.a.']
+985,6281,Phone Booth (2002),Drama|Thriller,3.140625,['crime']
+986,6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller,3.9,"['amazing artwork', 'anime', 'sci-fi']"
+987,6286,"Man Without a Past, The (Mies vailla menneisyyttä) (2002)",Comedy|Crime|Drama,3.875,['amnesia']
+988,6288,Better Luck Tomorrow (2002),Crime|Drama,3.875,['gangs']
+989,6289,Ghosts of the Abyss (2003),Documentary|IMAX,3.5,['titanic']
+990,6290,House of 1000 Corpses (2003),Horror,2.7142857142857144,['rob zombie']
+991,6291,Lilya 4-Ever (Lilja 4-ever) (2002),Crime|Drama,3.5,"['prostitution', 'depressing', 'melancholy', 'sad']"
+992,6296,"Mighty Wind, A (2003)",Comedy|Musical,3.75,['mockumentary']
+993,6297,Holes (2003),Adventure|Children|Comedy|Mystery,3.425,['children']
+994,6299,"Winged Migration (Peuple migrateur, Le) (2001)",Documentary,3.5,['birds']
+995,6305,Fahrenheit 451 (1966),Drama|Sci-Fi,3.6,['ray bradbury']
+996,6308,Legal Eagles (1986),Comedy|Crime|Romance,2.625,['lawyers']
+997,6323,Identity (2003),Crime|Horror|Mystery|Thriller,3.6818181818181817,['john cusack']
+998,6327,"Decade Under the Influence, A (2003)",Documentary,3.5,"['1970s', 'movies']"
+999,6331,Spellbound (2002),Documentary,3.923076923076923,['spelling bee']
+1000,6333,X2: X-Men United (2003),Action|Adventure|Sci-Fi|Thriller,3.723684210526316,"['jean grey', 'magneto', 'rogue', 'superhero', 'wolverine']"
+1001,6334,Blue Car (2002),Drama,3.5,['teachers']
+1002,6337,Owning Mahowny (2003),Crime|Drama|Thriller,3.5,['gambling']
+1003,6339,"Man on the Train (Homme du train, L') (2002)",Comedy|Drama,3.875,['trains']
+1004,6341,"Shape of Things, The (2003)",Drama,3.25,['art']
+1005,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Action|Adventure|Animation|Children|Fantasy|Sci-Fi,4.0625,['anime']
+1006,6367,Down with Love (2003),Comedy|Romance,2.9,"['ewan mcgregor', 'renee zellweger', 'retro']"
+1007,6368,Cinemania (2002),Documentary,4.0,['movies']
+1008,6373,Bruce Almighty (2003),Comedy|Drama|Fantasy|Romance,3.316901408450704,"['religion', 'classic']"
+1009,6375,Gigantic (A Tale of Two Johns) (2002),Documentary,4.0,"['in netflix queue', 'they might be giants']"
+1010,6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,3.9609929078014185,"['disney', 'fish', 'heartwarming']"
+1011,6378,"Italian Job, The (2003)",Action|Crime,3.6186440677966103,['heist']
+1012,6380,Capturing the Friedmans (2003),Documentary,3.9285714285714284,['child abuse']
+1013,6385,Whale Rider (2002),Drama,3.75,['girl power']
+1014,6390,Silk Stockings (1957),Musical,3.5,['ninotchka remake']
+1015,6400,Murder on a Sunday Morning (Un coupable idéal) (2001),Documentary,3.5,"['documentary', 'crime']"
+1016,6407,"Walk, Don't Run (1966)",Comedy|Romance,2.0,"['olympics', 'tokyo']"
+1017,6422,Shenandoah (1965),Drama|War|Western,4.0,['civil war']
+1018,6440,Barton Fink (1991),Drama|Thriller,4.035714285714286,['movie business']
+1019,6452,"Long, Hot Summer, The (1958)",Drama,4.0,['in netflix queue']
+1020,6454,Music Box (1989),Drama,3.5,['nazis']
+1021,6466,Mississippi Masala (1991),Drama|Romance,3.5,['in netflix queue']
+1022,6502,28 Days Later (2002),Action|Horror|Sci-Fi,3.9741379310344827,"['zombies', 'zombies']"
+1023,6515,You Only Live Once (1937),Crime|Film-Noir,4.5,['fugitive']
+1024,6516,Anastasia (1956),Drama,3.5,['in netflix queue']
+1025,6534,Hulk (2003),Action|Adventure|Sci-Fi,2.5606060606060606,"['dogs', 'eric bana', 'mad scientist', 'marvel']"
+1026,6535,"Legally Blonde 2: Red, White & Blonde (2003)",Comedy,2.409090909090909,['politics']
+1027,6536,Sinbad: Legend of the Seven Seas (2003),Adventure|Animation|Children|Fantasy,3.6666666666666665,['swashbuckler']
+1028,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,3.778523489932886,['swashbuckler']
+1029,6541,"League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)",Action|Fantasy|Sci-Fi,2.625,"['captain nemo', 'comic book', 'gothic', 'peta wilson', 'sean connery', 'superhero']"
+1030,6545,I Capture the Castle (2003),Drama|Romance,4.5,['dodie smith']
+1031,6547,Northfork (2003),Drama|Fantasy,2.25,['flood']
+1032,6552,Dirty Pretty Things (2002),Crime|Drama|Thriller,3.625,['immigration']
+1033,6564,Lara Croft Tomb Raider: The Cradle of Life (2003),Action|Adventure|Comedy|Romance|Thriller,2.6470588235294117,"['adventure', 'angelina jolie', 'heroine in tight suit']"
+1034,6565,Seabiscuit (2003),Drama,3.6944444444444446,['horses']
+1035,6579,"One, Two, Three (1961)",Comedy,4.0,['japan']
+1036,6591,"Magdalene Sisters, The (2002)",Drama,4.333333333333333,['religion']
+1037,6592,"Secret Lives of Dentists, The (2002)",Drama,4.0,['marriage']
+1038,6603,"Double Life, A (1947)",Crime|Drama|Film-Noir,2.5,['othello']
+1039,6609,"Gospel According to St. Matthew, The (Vangelo secondo Matteo, Il) (1964)",Drama,3.5,['bible']
+1040,6620,American Splendor (2003),Comedy|Drama,3.8333333333333335,['cancer']
+1041,6636,"Sure Thing, The (1985)",Comedy|Romance,3.75,['road trip']
+1042,6639,Wait Until Dark (1967),Drama|Thriller,3.4285714285714284,['blindness']
+1043,6650,Kind Hearts and Coronets (1949),Comedy|Drama,3.3333333333333335,"['family', 'multiple roles', 'murder']"
+1044,6660,"Red Shoes, The (1948)",Drama|Fantasy|Musical|Romance,3.5,['ballet']
+1045,6662,"Pink Panther, The (1963)",Comedy|Crime,3.4545454545454546,['clousseau']
+1046,6667,Waco: The Rules of Engagement (1997),Documentary,3.5,['fbi']
+1047,6669,Ikiru (1952),Drama,3.4166666666666665,"['terminal illness', 'meditative', 'philosophical', 'poignant', 'purposefulness']"
+1048,6708,Matchstick Men (2003),Comedy|Crime|Drama,3.7205882352941178,"['con men', 'fatherhood']"
+1049,6710,Dummy (2002),Comedy|Drama|Romance,3.625,['vertriloquism']
+1050,6711,Lost in Translation (2003),Comedy|Drama|Romance,4.033783783783784,"['atmospheric', 'japan']"
+1051,6713,Millennium Actress (Sennen joyû) (2001),Animation|Drama|Romance,3.8,['in netflix queue']
+1052,6724,Paper Moon (1973),Comedy|Crime|Drama,3.6,['in netflix queue']
+1053,6732,"Hello, Dolly! (1969)",Comedy|Musical|Romance,3.75,['matchmaker']
+1054,6744,Once Bitten (1985),Comedy|Horror,2.25,['vampire']
+1055,6753,Secondhand Lions (2003),Children|Comedy|Drama,3.5,['animal movie']
+1056,6768,Luther (2003),Drama,4.0,['religion']
+1057,6770,My Life Without Me (2003),Drama|Romance,3.5,"['adultery', 'terminal illness']"
+1058,6773,"Triplets of Belleville, The (Les triplettes de Belleville) (2003)",Animation|Comedy|Fantasy,3.7045454545454546,['biking']
+1059,6776,Lagaan: Once Upon a Time in India (2001),Comedy|Drama|Musical|Romance,4.166666666666667,['india']
+1060,6785,Seven Brides for Seven Brothers (1954),Comedy|Musical|Romance|Western,3.75,['lonesome polecat']
+1061,6786,Kiss of the Spider Woman (1985),Drama,3.875,['in netflix queue']
+1062,6787,All the President's Men (1976),Drama|Thriller,4.018518518518518,"['journalism', 'watergate', 'deep throat']"
+1063,6788,Angie (1994),Comedy|Drama|Romance,2.0,['pregnancy']
+1064,6791,Babette's Feast (Babettes gæstebud) (1987),Drama,4.4,['food']
+1065,6807,Monty Python's The Meaning of Life (1983),Comedy,3.95,['british comedy']
+1066,6810,Sleeping with the Enemy (1991),Drama|Thriller,2.5,['domestic violence']
+1067,6818,Come and See (Idi i smotri) (1985),Drama|War,5.0,"['atmospheric', 'bleak', 'disturbing', 'gritty', 'harsh']"
+1068,6820,Ginger Snaps (2000),Drama|Horror|Thriller,4.0,['werewolf']
+1069,6832,Regarding Henry (1991),Drama,3.6,['amnesia']
+1070,6852,In Cold Blood (1967),Crime|Drama,3.625,"['black and white', 'capote', 'crime', 'death penalty', 'murder']"
+1071,6856,Yankee Doodle Dandy (1942),Drama|Musical,4.0,['biopic']
+1072,6863,School of Rock (2003),Comedy|Musical,3.4015151515151514,['school']
+1073,6867,"Station Agent, The (2003)",Comedy|Drama,3.5833333333333335,['trains']
+1074,6870,Mystic River (2003),Crime|Drama|Mystery,3.7115384615384617,"['child abuse', 'kidnapping']"
+1075,6874,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,3.9618320610687023,"['martial arts', 'revenge']"
+1076,6881,Pieces of April (2003),Comedy|Drama,3.0714285714285716,['thanksgiving']
+1077,6890,Elephant (2003),Drama,3.5555555555555554,"['adolescence', 'violence in america']"
+1078,6909,"Eye, The (Gin gwai) (Jian gui) (2002)",Thriller,3.25,['transplants']
+1079,6912,You'll Never Get Rich (1941),Comedy|Musical|Romance,3.5,['rita hayworth can dance!']
+1080,6918,"Unvanquished, The (Aparajito) (1957)",Drama,3.75,['india']
+1081,6932,Shattered Glass (2003),Crime|Drama,3.5,['journalism']
+1082,6936,Elf (2003),Children|Comedy|Fantasy,3.6923076923076925,['christmas']
+1083,6938,Billabong Odyssey (2003),Documentary,4.0,"['big wave', 'surfing']"
+1084,6944,Father of the Bride (1991),Comedy,3.5,"['remake', 'wedding']"
+1085,6948,Tupac: Resurrection (2003),Documentary,4.0,"['music business', 'rap']"
+1086,6953,21 Grams (2003),Crime|Drama|Mystery|Romance|Thriller,3.3,['depressing']
+1087,6963,Devil's Playground (2002),Documentary,4.25,['amish']
+1088,6970,Desk Set (1957),Comedy|Romance,3.75,['hepburn and tracy']
+1089,6979,WarGames (1983),Drama|Sci-Fi|Thriller,3.3095238095238093,['cold war']
+1090,6981,"Ordet (Word, The) (1955)",Drama,3.75,['religion']
+1091,6984,"Tale of Two Cities, A (1935)",Drama,4.0,['dickens']
+1092,6985,"Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)",Drama,3.9,['saint']
+1093,6993,Hannah and Her Sisters (1986),Comedy|Drama|Romance,3.769230769230769,['family']
+1094,7013,"Night of the Hunter, The (1955)",Drama|Film-Noir|Thriller,4.0,['good and evil']
+1095,7018,Presumed Innocent (1990),Crime|Drama|Thriller,3.9,"['court', 'scott turow']"
+1096,7022,Battle Royale (Batoru rowaiaru) (2000),Action|Drama|Horror|Thriller,3.933333333333333,"['based on a book', 'bloody', 'brutal', 'controversial', 'dystopia', 'goretastic', 'satire', 'social commentary', 'survival', 'violence']"
+1097,7023,"Wedding Banquet, The (Xi yan) (1993)",Comedy|Drama|Romance,4.5,['in netflix queue']
+1098,7024,"Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976)",Drama,3.6666666666666665,"['bleak', 'confrontational', 'disturbing', 'harsh', 'haunting', 'inhumane', 'thought-provoking']"
+1099,7025,"Midnight Clear, A (1992)",Drama|War,3.75,['in netflix queue']
+1100,7049,Flying Down to Rio (1933),Comedy|Musical|Romance,3.0,['astaire and rogers']
+1101,7050,Follow the Fleet (1936),Comedy|Musical|Romance,3.75,['astaire and rogers']
+1102,7053,Roberta (1935),Comedy|Musical|Romance,4.0,['astaire and rogers']
+1103,7055,Swing Time (1936),Comedy|Musical|Romance,4.0,['astaire and rogers']
+1104,7059,National Velvet (1944),Children|Drama,3.75,['horses']
+1105,7061,Dark Victory (1939),Drama|Romance,4.0,['terminal illness']
+1106,7062,Birdman of Alcatraz (1962),Drama,4.0,"['birds', 'prison']"
+1107,7069,"Macbeth (a.k.a. Tragedy of Macbeth, The) (1971)",Drama,3.5,"['in netflix queue', 'shakespeare']"
+1108,7070,Red River (1948),Action|Adventure|Western,4.0,['cattle drive']
+1109,7071,"Woman Under the Influence, A (1974)",Drama,5.0,['in netflix queue']
+1110,7073,"Shot in the Dark, A (1964)",Comedy|Crime|Mystery,2.5,['clousseau']
+1111,7078,Jezebel (1938),Drama,3.8333333333333335,"['bette davis', 'oscar (best actress)']"
+1112,7079,"Hunchback of Notre Dame, The (1939)",Drama,3.5,['disability']
+1113,7086,Pygmalion (1938),Comedy|Drama,3.5,['george bernard shaw']
+1114,7087,"Passage to India, A (1984)",Adventure|Drama,4.0,['e.m. forster']
+1115,7088,Black Orpheus (Orfeu Negro) (1959),Drama|Romance,4.0,['in netflix queue']
+1116,7090,Hero (Ying xiong) (2002),Action|Adventure|Drama,3.9210526315789473,['martial arts']
+1117,7091,Horse Feathers (1932),Comedy,4.0,['marx brothers']
+1118,7121,Adam's Rib (1949),Comedy|Romance,4.75,['hepburn and tracy']
+1119,7132,"Night at the Opera, A (1935)",Comedy|Musical|Romance,4.111111111111111,"['marx brothers', 'opera']"
+1120,7139,In America (2002),Drama|Romance,3.857142857142857,['immigrants']
+1121,7141,My Flesh and Blood (2003),Documentary,4.0,['in netflix queue']
+1122,7147,Big Fish (2003),Drama|Fantasy|Romance,3.8333333333333335,"['dreamlike', 'sentimental', 'surreal', 'tim burton']"
+1123,7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,4.118918918918919,"['adventure', 'ensemble cast', 'fantasy', 'fantasy world', 'great soundtrack', 'lord of the rings', 'scenic', 'stylized', 'tolkien', 'tolkein']"
+1124,7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,4.3076923076923075,['vietnam']
+1125,7158,House of Sand and Fog (2003),Drama,3.7777777777777777,['real estate']
+1126,7160,Monster (2003),Crime|Drama,3.5294117647058822,['serial killer']
+1127,7162,Cold Mountain (2003),Drama|Romance|War,3.2916666666666665,['civil war']
+1128,7190,Jane Eyre (1970),Drama,3.5,['charlotte bronte']
+1129,7212,I Was a Male War Bride (1949),Comedy|Romance,4.25,"['cross dressing', 'men in drag']"
+1130,7217,Dark Passage (1947),Crime|Drama|Film-Noir|Romance|Thriller,4.0,['amnesia']
+1131,7218,"Ox-Bow Incident, The (1943)",Drama|Western,4.5,['in netflix queue']
+1132,7219,They Drive by Night (1940),Drama,4.0,['truckers']
+1133,7234,"Strada, La (1954)",Drama,4.25,['circus']
+1134,7254,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller,3.630434782608696,"['alternate reality', 'sci-fi', 'science fiction', 'time travel']"
+1135,7256,Touching the Void (2003),Adventure|Documentary,4.0,['mountain climbing']
+1136,7285,Thirteen (2003),Drama,3.611111111111111,['adolescence']
+1137,7301,Diary of a Country Priest (Journal d'un curé de campagne) (1951),Drama,3.5,"['priest', 'religion']"
+1138,7318,"Passion of the Christ, The (2004)",Drama,2.6153846153846154,['religion']
+1139,7323,"Good bye, Lenin! (2003)",Comedy|Drama,3.8043478260869565,['cold war']
+1140,7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,4.1603053435114505,"['alternate reality', 'memory', 'thought-provoking', 'jim carrey', 'memory', 'cult film', 'imagination', 'jim carrey', 'love', 'surreal', 'arthouse', 'artistic', 'atmospheric', 'beautiful', 'bittersweet', 'colourful', 'comedy', 'dreamlike', 'emotional', 'feel-good', 'happpiness', 'humane', 'insightful', 'intelligent', 'lovely', 'melancholy', 'mind-bending', 'philosophy', 'quirky', 'quirky romantic', 'romantic', 'surreal', 'surrealism', 'thought-provoking']"
+1141,7371,Dogville (2003),Drama|Mystery|Thriller,4.025,['grace']
+1142,7382,I'm Not Scared (Io non ho paura) (2003),Drama|Mystery|Thriller,4.25,"['adolescence', 'crime', 'for katie']"
+1143,7438,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,3.868181818181818,['revenge']
+1144,7439,"Punisher, The (2004)",Action|Crime|Thriller,3.5,['comic book']
+1145,7440,Paper Clips (2004),Documentary,3.25,['holocaust']
+1146,7444,13 Going on 30 (2004),Comedy|Fantasy|Romance,3.1904761904761907,['mark ruffalo']
+1147,7451,Mean Girls (2004),Comedy,3.7564102564102564,"['clever', 'high school', 'lesbian subtext', 'high school']"
+1148,7479,Watch on the Rhine (1943),Drama,4.0,['world war ii']
+1149,7493,"Three Faces of Eve, The (1957)",Drama,4.0,['multiple personalities']
+1150,7572,Wit (2001),Drama,4.5,['cancer']
+1151,7584,Woman of the Year (1942),Comedy|Romance,4.0,"['hepburn and tracy', 'marriage']"
+1152,7614,Oklahoma! (1955),Musical|Romance|Western,4.5,['rogers and hammerstein']
+1153,7618,Chaplin (1992),Drama,3.5,"['biopic', 'in netflix queue']"
+1154,7619,"Miracle Worker, The (1962)",Drama,3.6666666666666665,"['blindness', 'deaf']"
+1155,7646,Rose Red (2002),Horror|Mystery|Thriller,3.0,['stephen king']
+1156,7649,Babylon 5: In the Beginning (1998),Adventure|Sci-Fi,2.8,['space station']
+1157,7700,"Wages of Fear, The (Salaire de la peur, Le) (1953)",Action|Adventure|Drama|Thriller,3.3,['in netflix queue']
+1158,7705,Pat and Mike (1952),Comedy|Romance,4.0,"['hepburn and tracy', 'sports']"
+1159,7713,Cat People (1942),Drama|Horror|Romance|Thriller,4.0,['sexuality']
+1160,7714,Camelot (1967),Drama|Musical|Romance,4.0,['king arthur']
+1161,7728,"Postman Always Rings Twice, The (1946)",Crime|Drama|Film-Noir|Thriller,3.6666666666666665,['adultery']
+1162,7748,Pierrot le fou (1965),Crime|Drama,3.875,['in netflix queue']
+1163,7766,Throne of Blood (Kumonosu jô) (1957),Action|Drama|Thriller|War,4.0,['macbeth']
+1164,7789,"11'09""01 - September 11 (2002)",Drama,4.0,['terrorism']
+1165,7831,Another Thin Man (1939),Comedy|Crime|Drama|Mystery|Romance,3.5,['nick and nora charles']
+1166,7832,"Thin Man Goes Home, The (1945)",Comedy|Crime|Mystery,3.5,['nick and nora charles']
+1167,7833,Shadow of the Thin Man (1941),Comedy|Crime|Mystery,3.5,['nick and nora charles']
+1168,7834,After the Thin Man (1936),Comedy|Crime|Mystery|Romance,2.8333333333333335,['nick and nora charles']
+1169,7835,Song of the Thin Man (1947),Comedy|Crime|Drama|Musical|Mystery|Romance,3.5,['nick and nora charles']
+1170,7924,Stray Dog (Nora inu) (1949),Drama|Film-Noir|Thriller,3.5,['in netflix queue']
+1171,7926,High and Low (Tengoku to jigoku) (1963),Crime|Drama|Film-Noir|Thriller,4.0,['in netflix queue']
+1172,7932,Dark Days (2000),Documentary,3.6666666666666665,"['amtrak', 'homeless', 'independent', 'new york', 'sundance award winner', 'train']"
+1173,7934,Zelig (1983),Comedy,4.0,['psychology']
+1174,7936,Shame (Skammen) (1968),Drama|War,4.0,['austere']
+1175,7981,Infernal Affairs (Mou gaan dou) (2002),Crime|Drama|Thriller,4.333333333333333,['police']
+1176,7983,Broadway Danny Rose (1984),Comedy,4.2,['show business']
+1177,8011,"Weather Underground, The (2002)",Documentary,4.0,['politics']
+1178,8014,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",Drama,4.25,['in netflix queue']
+1179,8019,Dark Water (Honogurai mizu no soko kara) (2002),Drama|Horror|Mystery|Thriller,4.0,['remade']
+1180,8033,How to Steal a Million (1966),Comedy|Crime|Romance,3.6666666666666665,['in netflix queue']
+1181,8094,Bad Day at Black Rock (1955),Drama|Thriller|Western,3.5,['in netflix queue']
+1182,8153,Lust for Life (1956),Drama,2.5,['van gogh']
+1183,8167,Captain Blood (1935),Action|Adventure|Romance,4.0,['swashbuckler']
+1184,8183,Educating Rita (1983),Comedy|Drama,3.1666666666666665,['in netflix queue']
+1185,8188,Sansho the Bailiff (Sanshô dayû) (1954),Drama,3.5,['not available from netflix']
+1186,8190,"Americanization of Emily, The (1964)",Comedy|Drama|War,4.0,['in netflix queue']
+1187,8191,Anne of the Thousand Days (1969),Drama,4.0,['anne boleyn']
+1188,8197,Hiroshima Mon Amour (1959),Drama|Romance|War,4.0,['in netflix queue']
+1189,8207,"Day of the Jackal, The (1973)",Crime|Thriller,4.083333333333333,['assassination']
+1190,8228,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",Mystery,3.6176470588235294,['heist']
+1191,8235,Safety Last! (1923),Action|Comedy|Romance,4.0,['clock']
+1192,8266,Purple Rain (1984),Drama|Musical,2.7,['prince']
+1193,8275,College (1927),Comedy,3.5,['in netflix queue']
+1194,8335,Make Way for Tomorrow (1937),Drama,3.5,['heartbreaking']
+1195,8337,"Caine Mutiny, The (1954)",Drama|War,4.0,['military']
+1196,8338,Black Narcissus (1947),Drama,4.0,"['convent', 'religion']"
+1197,8341,Oliver Twist (1948),Adventure|Crime|Drama,3.8333333333333335,['dickens']
+1198,8360,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Musical|Romance,3.5760869565217392,['ogres']
+1199,8366,Saved! (2004),Comedy|Drama,3.892857142857143,"['pregnancy', 'religion']"
+1200,8368,Harry Potter and the Prisoner of Azkaban (2004),Adventure|Fantasy|IMAX,3.913978494623656,"['magic', 'wizards']"
+1201,8375,"Hunting of the President, The (2004)",Documentary,2.5,['politics']
+1202,8376,Napoleon Dynamite (2004),Comedy,3.324324324324324,['high school']
+1203,8379,"Dresser, The (1983)",Drama,3.0,['in netflix queue']
+1204,8382,Hello Again (1987),Comedy,2.5,['death']
+1205,8424,"Divorcee, The (1930)",Drama|Romance,4.0,['divorce']
+1206,8446,Sands of Iwo Jima (1949),Action|Drama|Romance|War,2.5,['world war ii']
+1207,8463,Johnny Belinda (1948),Drama,4.0,['deafness']
+1208,8464,Super Size Me (2004),Comedy|Documentary|Drama,3.51,"['food', 'mcdonalds']"
+1209,8477,"Jetée, La (1962)",Romance|Sci-Fi,4.5,['post-apocalyptic']
+1210,8507,Freaks (1932),Crime|Drama|Horror,3.1666666666666665,['circus']
+1211,8530,Dear Frankie (2004),Drama|Romance,3.75,['ireland']
+1212,8533,"Notebook, The (2004)",Drama|Romance,3.5657894736842106,"['memory loss', 'romance', 'sad']"
+1213,8580,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,5.0,"['fairy tales', 'in netflix queue']"
+1214,8607,Tokyo Godfathers (2003),Adventure|Animation|Drama,3.9,['in netflix queue']
+1215,8609,Our Hospitality (1923),Comedy,3.25,['in netflix queue']
+1216,8622,Fahrenheit 9/11 (2004),Documentary,3.4864864864864864,"['politics', 'terrorism']"
+1217,8636,Spider-Man 2 (2004),Action|Adventure|Sci-Fi|IMAX,3.8037974683544302,['doc ock']
+1218,8638,Before Sunset (2004),Drama|Romance,3.7,['generation x']
+1219,8641,Anchorman: The Legend of Ron Burgundy (2004),Comedy,3.7719298245614037,"['hilarious', 'steve carell', 'will ferrell', 'stupid', 'awesome', 'comedy', 'will ferrell']"
+1220,8645,"Maria Full of Grace (Maria, Llena eres de gracia) (2004)",Crime|Drama,3.9375,"['drugs', 'immigrants']"
+1221,8695,"Bachelor and the Bobby-Soxer, The (1947)",Comedy,3.0,['court']
+1222,8714,Night and Day (1946),Drama|Musical,2.5,['cole porter']
+1223,8754,"Prime of Miss Jean Brodie, The (1969)",Drama,4.0,['oscar (best actress)']
+1224,8783,"Village, The (2004)",Drama|Mystery|Thriller,3.1923076923076925,"['atmospheric', 'good soundtrack', 'm. night shyamalan']"
+1225,8784,Garden State (2004),Comedy|Drama|Romance,3.7083333333333335,['psychology']
+1226,8796,"Funny Thing Happened on the Way to the Forum, A (1966)",Comedy|Musical,3.1,['rome']
+1227,8809,Danny Deckchair (2003),Comedy|Romance,3.25,['australia']
+1228,8827,"Bill Cosby, Himself (1983)",Comedy|Documentary,4.0,['stand up']
+1229,8838,Alice Doesn't Live Here Anymore (1974),Drama|Romance,4.166666666666667,['in netflix queue']
+1230,8874,Shaun of the Dead (2004),Comedy|Horror,4.0064935064935066,['zombies']
+1231,8875,"Come Back, Little Sheba (1952)",Drama,4.0,"['alcoholism', 'marriage']"
+1232,8879,Murder on the Orient Express (1974),Crime|Mystery|Thriller,3.25,"['agatha christie', 'oscar (best supporting actress)', 'train']"
+1233,8880,Mask (1985),Drama,3.4285714285714284,['disability']
+1234,8914,Primer (2004),Drama|Sci-Fi,3.7941176470588234,['time travel']
+1235,8920,"Country Girl, The (1954)",Drama,3.5,['oscar (best actress)']
+1236,8938,Tarnation (2003),Documentary,4.0,"['parenthood', 'psychology']"
+1237,8943,Being Julia (2004),Comedy|Drama,1.75,['stage']
+1238,8949,Sideways (2004),Comedy|Drama|Romance,3.7435897435897436,['wine']
+1239,8950,The Machinist (2004),Drama|Mystery|Thriller,3.986842105263158,"['christian bale', 'creepy', 'powerful ending', 'psychology', 'schizophrenia', 'twist ending', 'psychology']"
+1240,8951,Vera Drake (2004),Drama,3.0,['abortion']
+1241,8957,Saw (2004),Horror|Mystery|Thriller,3.1818181818181817,"['brutal', 'clever', 'disturbing', 'great ending', 'mindfuck', 'surprise ending', 'suspense']"
+1242,8958,Ray (2004),Drama,3.6842105263157894,['biopic']
+1243,8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,3.836,"['disney', 'superhero', 'animation', 'samuel l. jackson']"
+1244,8970,Finding Neverland (2004),Drama,3.609375,['peter pan']
+1245,8979,Guerrilla: The Taking of Patty Hearst (2004),Documentary,4.0,['hearst']
+1246,8983,House of Flying Daggers (Shi mian mai fu) (2004),Action|Drama|Romance,3.52,['martial arts']
+1247,8998,That's Entertainment (1974),Documentary,4.0,['in netflix queue']
+1248,9010,Love Me If You Dare (Jeux d'enfants) (2003),Drama|Romance,4.1,['cruel characters']
+1249,9018,Control Room (2004),Documentary|War,4.333333333333333,['journalism']
+1250,25753,Greed (1924),Drama,4.0,['gold']
+1251,25771,"Andalusian Dog, An (Chien andalou, Un) (1929)",Fantasy,4.5,"['mindfuck', 'surreal', 'surrealism']"
+1252,25825,Fury (1936),Drama|Film-Noir,3.375,['revenge']
+1253,25841,Stage Door (1937),Drama,4.166666666666667,['show business']
+1254,25865,"Letter, The (1940)",Drama|Film-Noir,4.0,['in netflix queue']
+1255,25886,Random Harvest (1942),Drama|Romance,4.0,['made me cry']
+1256,25940,"Lady from Shanghai, The (1947)",Drama|Film-Noir|Mystery,3.5,['mirrors']
+1257,25952,"Letter to Three Wives, A (1949)",Comedy|Drama,4.0,['in netflix queue']
+1258,26131,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War,4.3,['in netflix queue']
+1259,26151,Au Hasard Balthazar (1966),Crime|Drama,3.5,['donkey']
+1260,26242,Duel (1971),Action|Mystery|Thriller,3.2,['in netflix queue']
+1261,26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Adventure|Animation|Children|Drama|Fantasy,4.0588235294117645,['anime']
+1262,26717,Begotten (1990),Drama|Horror,0.5,"['boring', 'psychedelic', 'symbolic']"
+1263,26776,Porco Rosso (Crimson Pig) (Kurenai no buta) (1992),Adventure|Animation|Comedy|Fantasy|Romance,3.892857142857143,['in netflix queue']
+1264,27020,Gia (1998),Drama|Romance,3.4,"['drugs', 'lesbian']"
+1265,27156,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.3,"['anime', 'end of the world', 'epic', 'mecha', 'psychology']"
+1266,27660,"Animatrix, The (2003)",Action|Animation|Drama|Sci-Fi,3.7,"['animation', 'anime', 'cyberpunk', 'dark', 'matrix', 'sci-fi']"
+1267,27706,Lemony Snicket's A Series of Unfortunate Events (2004),Adventure|Children|Comedy|Fantasy,3.16,"['dark comedy', 'jim carrey', 'meryl streep', 'quirky', 'stylized']"
+1268,27731,"Cat Returns, The (Neko no ongaeshi) (2002)",Adventure|Animation|Children|Fantasy,3.75,['in netflix queue']
+1269,27741,"Twilight Samurai, The (Tasogare Seibei) (2002)",Drama|Romance,3.8333333333333335,['in netflix queue']
+1270,27773,Old Boy (2003),Mystery|Thriller,4.089743589743589,"['bizarre', 'claustrophobic', 'depressing', 'disturbing', 'hallucinatory', 'paranoid', 'surreal', 'twisted']"
+1271,27790,Millions (2004),Children|Comedy|Crime|Drama|Fantasy,3.5,"['religion', 'saints']"
+1272,27808,Spanglish (2004),Comedy|Drama|Romance,3.3636363636363638,"['adam sandler', 'family', 'sweet']"
+1273,27820,"Story of the Weeping Camel, The (Geschichte vom weinenden Kamel, Die) (2003)",Documentary|Drama,4.0,"['animal movie', 'camels']"
+1274,27831,Layer Cake (2004),Crime|Drama|Thriller,3.8157894736842106,"['british gangster', 'confusing', 'daniel craig', 'exquisite plotting.', 'organized crime', 'stylish', 'tom hardy']"
+1275,27834,"Return, The (Vozvrashcheniye) (2003)",Drama,4.333333333333333,['fatherhood']
+1276,27838,Mean Creek (2004),Drama|Thriller,3.75,['revenge']
+1277,27878,Born into Brothels (2004),Documentary,3.875,['india']
+1278,27882,Riding Giants (2004),Documentary,4.0,['surfing']
+1279,30707,Million Dollar Baby (2004),Drama,3.8461538461538463,['boxing']
+1280,30749,Hotel Rwanda (2004),Drama|War,3.7916666666666665,['genocide']
+1281,30793,Charlie and the Chocolate Factory (2005),Adventure|Children|Comedy|Fantasy|IMAX,3.0,['roald dahl']
+1282,30810,"Life Aquatic with Steve Zissou, The (2004)",Adventure|Comedy|Fantasy,3.4864864864864864,"['heartwarming', 'off-beat comedy', 'quirky', 'trippy', 'visually appealing', 'whimsical']"
+1283,30812,"Aviator, The (2004)",Drama,3.5285714285714285,"['biopic', 'howard hughes', 'movie business']"
+1284,30820,"Woodsman, The (2004)",Drama,3.8333333333333335,['child abuse']
+1285,30822,In Good Company (2004),Comedy|Drama,3.4545454545454546,['busniess']
+1286,30825,Meet the Fockers (2004),Comedy,3.106060606060606,"['ben stiller', 'robert de niro']"
+1287,30850,"Merchant of Venice, The (2004)",Drama,3.75,['shakespeare']
+1288,31030,I Remember Mama (1948),Children|Drama,4.0,['motherhood']
+1289,31437,Nobody Knows (Dare mo shiranai) (2004),Drama,4.25,['orphans']
+1290,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,4.075,"['anime', 'fantasy world', 'hayao miyazaki', 'studio ghibli', '06 oscar nominated best movie - animation', 'in netflix queue']"
+1291,31903,Zelary (2003),Drama|Romance,4.0,['marriage']
+1292,31923,"Three Musketeers, The (1973)",Action|Adventure|Comedy,4.0,['in netflix queue']
+1293,32582,"Wild Parrots of Telegraph Hill, The (2003)",Documentary,4.75,"['birds', 'parrots']"
+1294,32584,"Ballad of Jack and Rose, The (2005)",Drama,3.125,['fatherhood']
+1295,32587,Sin City (2005),Action|Crime|Film-Noir|Mystery|Thriller,3.857142857142857,['cult']
+1296,33154,Enron: The Smartest Guys in the Room (2005),Documentary,4.0,"['business', 'money', 'scandal']"
+1297,33162,Kingdom of Heaven (2005),Action|Drama|Romance|War,3.5,"['david thewlis', 'eva green', 'liam neeson', 'orlando bloom']"
+1298,33166,Crash (2004),Crime|Drama,3.89,['racism']
+1299,33493,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi,3.4294871794871793,"['space', 'space opera']"
+1300,33660,Cinderella Man (2005),Drama|Romance,4.088235294117647,"['boksdrama', 'boxing']"
+1301,34150,Fantastic Four (2005),Action|Adventure|Sci-Fi,2.763888888888889,"['chris evans', 'comic book', 'heroine in tight suit', 'jessica alba', 'sexy female scientist', 'superhero']"
+1302,34162,Wedding Crashers (2005),Comedy|Romance,3.5086206896551726,['stiller']
+1303,34271,Hustle & Flow (2005),Crime|Drama,3.75,['hip hop']
+1304,34323,"Devil's Rejects, The (2005)",Action|Crime|Horror,3.7142857142857144,['rob zombie']
+1305,34359,Georgy Girl (1966),Comedy,4.0,['pregnancy']
+1306,34405,Serenity (2005),Action|Adventure|Sci-Fi,3.94,"['predictable', 'firefly']"
+1307,34437,Broken Flowers (2005),Comedy|Drama,3.4761904761904763,['in netflix queue']
+1308,34528,Junebug (2005),Comedy|Drama,3.6666666666666665,['pregnancy']
+1309,34542,Grizzly Man (2005),Documentary,3.7,"['animal movie', 'bears']"
+1310,35015,Duma (2005),Adventure|Drama,3.5,"['animal movie', 'in netflix queue']"
+1311,35836,"40-Year-Old Virgin, The (2005)",Comedy|Romance,3.5472972972972974,"['best picture', 'classic', 'hilarious', 'steve carell']"
+1312,36517,"Constant Gardener, The (2005)",Drama|Thriller,3.4615384615384617,"['africa', 'business', 'politics']"
+1313,36527,Proof (2005),Drama,3.5714285714285716,['mathematics']
+1314,36529,Lord of War (2005),Action|Crime|Drama|Thriller|War,3.7142857142857144,['wapendrama']
+1315,36535,Everything Is Illuminated (2005),Comedy|Drama,3.7777777777777777,['in netflix queue']
+1316,37240,Why We Fight (2005),Documentary,3.5,['in netflix queue']
+1317,37384,Waiting... (2005),Comedy,3.269230769230769,['restaurant']
+1318,37729,Corpse Bride (2005),Animation|Comedy|Fantasy|Musical|Romance,3.534090909090909,"['gothic', 'helena bonham carter', 'johnny depp', 'tim burton', 'visually appealing', 'animation', '06 oscar nominated best movie - animation']"
+1319,37733,"History of Violence, A (2005)",Action|Crime|Drama|Thriller,3.5,['in netflix queue']
+1320,37736,Oliver Twist (2005),Drama,3.5,['dickens']
+1321,37741,Capote (2005),Crime|Drama,3.869565217391304,['truman capote']
+1322,38038,Wallace & Gromit in The Curse of the Were-Rabbit (2005),Adventure|Animation|Children|Comedy,3.6333333333333333,"['06 oscar nominated best movie - animation', 'aardman']"
+1323,38061,Kiss Kiss Bang Bang (2005),Comedy|Crime|Mystery|Thriller,4.071428571428571,"['black comedy', 'clever', 'fast-paced dialogue', 'good dialogue', 'robert downey jr.', 'witty', 'in netflix queue']"
+1324,38798,In Her Shoes (2005),Comedy|Drama,3.125,['sisters']
+1325,38886,"Squid and the Whale, The (2005)",Comedy|Drama,3.4444444444444446,['divorce']
+1326,39234,North Country (2005),Drama,3.5,"['courtroom drama', 'in netflix queue']"
+1327,39292,"Good Night, and Good Luck. (2005)",Crime|Drama,3.775,"['in netflix queue', 'journalism', 'mccarthy hearings', 'morrow']"
+1328,40278,Jarhead (2005),Action|Drama|War,3.676470588235294,"['jake gyllenhaal', 'modern war']"
+1329,40491,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,5.0,['depression']
+1330,40583,Syriana (2005),Drama|Thriller,3.53125,['in netflix queue']
+1331,40629,Pride & Prejudice (2005),Drama|Romance,3.5555555555555554,['in netflix queue']
+1332,40815,Harry Potter and the Goblet of Fire (2005),Adventure|Fantasy|Thriller|IMAX,3.816901408450704,"['magic', 'wizards']"
+1333,40819,Walk the Line (2005),Drama|Musical|Romance,3.7564102564102564,['johnny cash']
+1334,40955,Breakfast on Pluto (2005),Comedy|Drama,3.875,['transvestite']
+1335,41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",Adventure|Children|Fantasy,3.443548387096774,['c.s. lewis']
+1336,41569,King Kong (2005),Action|Adventure|Drama|Fantasy|Thriller,3.4,['big budget']
+1337,41997,Munich (2005),Action|Crime|Drama|Thriller,3.8095238095238093,['in netflix queue']
+1338,42002,"Producers, The (2005)",Comedy|Musical,3.388888888888889,['in netflix queue']
+1339,42422,Voices of a Distant Star (Hoshi no koe) (2003),Animation|Drama|Romance|Sci-Fi,4.5,['love']
+1340,42632,Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005),Crime|Drama|Mystery|Thriller,4.0,['brutality']
+1341,42740,Looking for Comedy in the Muslim World (2005),Comedy,3.5,['in netflix queue']
+1342,44665,Lucky Number Slevin (2006),Crime|Drama|Mystery,3.8552631578947367,['twist ending']
+1343,44889,Reefer Madness: The Movie Musical (2005),Comedy|Drama|Musical,4.75,['satire']
+1344,45447,"Da Vinci Code, The (2006)",Drama|Mystery|Thriller,3.122448979591837,"['adventure', 'audrey tautou', 'conspiracy theory', 'mystery', 'paris', 'tom hanks', 'treasure hunt']"
+1345,45499,X-Men: The Last Stand (2006),Action|Sci-Fi|Thriller,3.355769230769231,"['halle berry', 'hugh jackman']"
+1346,45730,Lady in the Water (2006),Drama|Fantasy|Mystery,2.8333333333333335,"['bad', 'disappointing', 'faerie tale', 'fairy tale', 'far fetched', 'm. night shyamalan', 'paul giamatti']"
+1347,45880,Marie Antoinette (2006),Drama|Romance,3.1923076923076925,"['cinematography', 'lyrical']"
+1348,46723,Babel (2006),Drama|Thriller,3.5,"['brad pitt', 'cate blanchett', 'multiple storylines', 'social commentary']"
+1349,46972,Night at the Museum (2006),Action|Comedy|Fantasy|IMAX,3.239130434782609,"['ben stiller', 'robin williams']"
+1350,46976,Stranger than Fiction (2006),Comedy|Drama|Fantasy|Romance,3.6931818181818183,"['emma thompson', 'maggie gyllenhaal', 'modern fantasy', 'romance', 'surreal', 'will ferrell']"
+1351,47610,"Illusionist, The (2006)",Drama|Fantasy|Mystery|Romance,3.7790697674418605,"['costume drama', 'edward norton', 'magic', 'paul giamatti']"
+1352,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller,3.814814814814815,"['atmospheric', 'bittersweet', 'visually appealing']"
+1353,48516,"Departed, The (2006)",Crime|Drama|Thriller,4.252336448598131,"['way too long', 'leonardo dicaprio', 'suspense', 'twist ending', 'undercover cop', 'atmospheric', 'jack nicholson', 'leonardo dicaprio', 'martin scorsese', 'suspense']"
+1354,48698,Deliver Us from Evil (2006),Documentary,4.5,['the catholic church is the most corrupt organization in history']
+1355,48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,4.0055555555555555,"['ummarti2006', 'atmospheric', 'enigmatic']"
+1356,49130,"Good Year, A (2006)",Comedy|Drama|Romance,3.6666666666666665,['marion cotillard']
+1357,49530,Blood Diamond (2006),Action|Adventure|Crime|Drama|Thriller|War,3.7641509433962264,"['africa', 'corruption', 'jennifer connelly', 'justice', 'leonardo dicaprio']"
+1358,50872,Ratatouille (2007),Animation|Children|Drama,3.8680555555555554,"['a clever chef rat', 'inspirational', 'clever', 'inspirational']"
+1359,51255,Hot Fuzz (2007),Action|Comedy|Crime|Mystery,4.0,['british comedy']
+1360,52287,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi,3.5454545454545454,['something for everyone in this one... saw it without and plan on seeing it with kids!']
+1361,52604,Fracture (2007),Crime|Drama|Mystery|Thriller,3.6666666666666665,"['anthony hopkins', 'courtroom drama', 'twist ending']"
+1362,52712,"Invisible, The (2007)",Crime|Drama|Fantasy|Mystery|Thriller,2.3333333333333335,"['horrible acting', 'interesting']"
+1363,52885,Paprika (Papurika) (2006),Animation|Mystery|Sci-Fi,3.7777777777777777,['dreamlike']
+1364,53127,Bug (2007),Drama|Horror|Thriller,2.875,"['based on a play', 'conspiracy theory', 'creepy', 'insanity', 'paranoia', 'ptsd']"
+1365,53464,Fantastic Four: Rise of the Silver Surfer (2007),Action|Adventure|Sci-Fi,2.575,"['bad acting', 'bad jokes', 'bad plot', 'chris evans', 'jessica alba', 'marvel', 'sexy female scientist']"
+1366,53468,Fido (2006),Comedy|Horror|Thriller,3.2857142857142856,['zombies']
+1367,54286,"Bourne Ultimatum, The (2007)",Action|Crime|Thriller,3.697530864197531,"['assassin', 'assassin-in-training (scene)', 'espionage', 'robert ludlum']"
+1368,54503,Superbad (2007),Comedy,3.8636363636363638,"['friendship', 'high school', 'michael cera', 'nerds', 'self discovery', 'shenanigans', 'virginity']"
+1369,54997,3:10 to Yuma (2007),Action|Crime|Drama|Western,4.06,['christian bale']
+1370,55167,Tekkonkinkreet (Tekkon kinkurîto) (2006),Action|Adventure|Animation|Crime|Fantasy,4.625,['anime']
+1371,55290,Gone Baby Gone (2007),Crime|Drama|Mystery,3.45,"['casey affleck', 'great performances', 'twist']"
+1372,55721,Elite Squad (Tropa de Elite) (2007),Action|Crime|Drama|Thriller,4.3,['favelas']
+1373,55765,American Gangster (2007),Crime|Drama|Thriller,3.9054054054054053,"['corruption', 'denzel washington', 'mafia', 'organized crime']"
+1374,56174,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller|IMAX,3.4838709677419355,"['alone in the world', 'apocalypse', 'based on a book', 'last man on earth', 'plot holes', 'post apocalyptic', 'post-apocalyptic', 'religion', 'vampire']"
+1375,56367,Juno (2007),Comedy|Drama|Romance,3.769230769230769,"['michael cera', 'notable soundtrack', 'pregnancy', 'teenage pregnancy', 'witty']"
+1376,56782,There Will Be Blood (2007),Drama|Western,4.142857142857143,"['atmospheric', 'cerebral', 'character study', 'gritty', 'intense', 'long shots', 'morality', 'visually appealing']"
+1377,57502,Cat Soup (Nekojiru-so) (2001),Adventure|Animation|Drama|Horror,4.0,"['abstract', 'dark', 'psychedelic', 'surreal']"
+1378,57669,In Bruges (2008),Comedy|Crime|Drama|Thriller,4.158536585365853,"['black comedy', 'colin farrell', 'dark comedy', 'drugs', 'friendship', 'irreverent', 'ralph fiennes', 'stylized']"
+1379,58047,"Definitely, Maybe (2008)",Comedy|Drama|Romance,3.4285714285714284,"['rachel weisz', 'ryan reynolds']"
+1380,58295,"Bank Job, The (2008)",Action|Crime|Thriller,3.6153846153846154,"['heist', 'robbery', 'small time criminals']"
+1381,58301,Funny Games U.S. (2007),Drama|Thriller,4.375,"['dark humor', 'dark', 'dark humor', 'intelligent', 'thought-provoking']"
+1382,58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,4.238255033557047,"['psychology', 'superhero', 'dark', 'gritty']"
+1383,59103,"Forbidden Kingdom, The (2008)",Action|Adventure|Comedy|Fantasy,3.8333333333333335,"['jackie chan', 'kung fu']"
+1384,59141,Son of Rambow (2007),Children|Comedy|Drama,4.666666666666667,['movies about movies']
+1385,59501,"Chronicles of Narnia: Prince Caspian, The (2008)",Adventure|Children|Fantasy,3.5416666666666665,"['fantasy', 'lion', 'narnia', 'tilda swinton']"
+1386,60069,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,4.0576923076923075,"['last man on earth', 'love story', 'post apocalyptic', 'social commentary']"
+1387,60074,Hancock (2008),Action|Adventure|Comedy|Crime|Fantasy,3.0344827586206895,"['bad script', 'charlize theron', 'will smith']"
+1388,60126,Get Smart (2008),Action|Comedy,3.46875,"['anne hathaway', 'steve carell']"
+1389,60516,Meet Dave (2008),Adventure|Children|Comedy|Romance|Sci-Fi,3.5,['enjoyable']
+1390,60756,Step Brothers (2008),Comedy,3.5535714285714284,"['funny', 'highly quotable', 'will ferrell', 'comedy', 'funny', 'will ferrell', 'funny', 'will ferrell']"
+1391,60950,Vicky Cristina Barcelona (2008),Comedy|Drama|Romance,3.09375,['threesome']
+1392,61024,Pineapple Express (2008),Action|Comedy|Crime,3.6774193548387095,"['comedy', 'james franco', 'seth rogen', 'stoner movie']"
+1393,61323,Burn After Reading (2008),Comedy|Crime|Drama,3.4871794871794872,"['dark comedy', 'brad pitt', 'coen bros', 'coen brothers', 'dark comedy', 'espionage', 'george clooney', 'john malkovich', 'satire', 'twists & turns', 'weird']"
+1394,62336,FLCL (2000),Animation|Comedy|Fantasy|Sci-Fi,4.277777777777778,"['2d animation', 'cult film', 'stylish', 'surreal']"
+1395,62434,Zack and Miri Make a Porno (2008),Comedy|Drama|Romance,3.5238095238095237,"['seth rogen', 'sexual humor']"
+1396,63062,Changeling (2008),Crime|Drama|Mystery,3.4375,['emotional']
+1397,63992,Twilight (2008),Drama|Fantasy|Romance|Thriller,2.409090909090909,"['audience intelligence underestimated', 'boring', 'chick flick', 'overrated', 'teen movie']"
+1398,64034,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",Drama|War,3.4166666666666665,"['childish naivity', 'friendship']"
+1399,66097,Coraline (2009),Animation|Fantasy|Thriller,3.7,"['claymation', 'creepy', 'dark', 'dark fairy tale', 'surreal', 'tim burton']"
+1400,66934,Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Musical|Sci-Fi,3.9166666666666665,"['joss whedon', 'nathan fillion', 'neil patrick harris', 'parody']"
+1401,67087,"I Love You, Man (2009)",Comedy,3.5294117647058822,"['andy samberg', 'bromance', 'bromantic', 'comedy', 'jaime pressly', 'jason segel', 'masculinity', 'paul rudd']"
+1402,67695,Observe and Report (2009),Action|Comedy,2.625,['seth rogen']
+1403,68157,Inglourious Basterds (2009),Action|Drama|War,4.136363636363637,"['black comedy', 'brad pitt', 'christoph waltz', 'quentin tarantino', 'satire']"
+1404,68237,Moon (2009),Drama|Mystery|Sci-Fi|Thriller,3.96875,"['2001-like', 'sci-fi', 'solitude']"
+1405,68319,X-Men Origins: Wolverine (2009),Action|Sci-Fi|Thriller,2.8653846153846154,"['comic book', 'bad plot', 'comic book', 'hugh jackman', 'ryan reynolds', 'too many characters']"
+1406,68358,Star Trek (2009),Action|Adventure|Sci-Fi|IMAX,3.864406779661017,"['future', 'lack of development', 'lack of story', 'quick cuts', 'sci-fi', 'simon pegg', 'space', 'space travel', 'time travel']"
+1407,68791,Terminator Salvation (2009),Action|Adventure|Sci-Fi|Thriller,3.25,"['artificial intelligence', 'bad acting', 'bad plot', 'bad script', 'christian bale', 'fighting the system', 'franchise', 'new composer', 'post-apocalyptic', 'robots', 'sci-fi', 'sequel']"
+1408,68848,"Brothers Bloom, The (2008)",Adventure|Comedy|Crime|Romance,4.333333333333333,"['adrien brody', 'con artists', 'funny', 'interesting characters', 'mark ruffalo', 'rachel weisz']"
+1409,68945,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),Action|Animation|Mystery|Sci-Fi,4.0,['recap']
+1410,68954,Up (2009),Adventure|Animation|Children|Drama,4.004761904761905,"['adventure', 'bechdel test:fail', 'cartoon', 'children', 'computer animation', 'divorce', 'dogs', 'dreams', 'pixar', 'bittersweet', 'emotional', 'heartbreaking', 'touching']"
+1411,69122,"Hangover, The (2009)",Comedy|Crime,3.6315789473684212,"['casino', 'comedy', 'funny', 'hotel', 'las vegas']"
+1412,69481,"Hurt Locker, The (2008)",Action|Drama|Thriller|War,4.0588235294117645,['war']
+1413,69526,Transformers: Revenge of the Fallen (2009),Action|Adventure|Sci-Fi|IMAX,2.425,"['bad plot', 'michael bay', 'needed more autobots', 'plot holes', 'ridiculous', 'shia labeouf', 'stop using useless characters for filler']"
+1414,69757,(500) Days of Summer (2009),Comedy|Drama|Romance,3.6666666666666665,"['artistic', 'funny', 'humorous', 'inspiring', 'intelligent', 'quirky', 'romance', 'zooey deschanel']"
+1415,70286,District 9 (2009),Mystery|Sci-Fi|Thriller,3.776923076923077,['intelligent sci-fi']
+1416,71494,"Haunted World of El Superbeasto, The (2009)",Action|Animation|Comedy|Horror|Thriller,3.5,['narrative pisstake']
+1417,71535,Zombieland (2009),Action|Comedy|Horror,3.8773584905660377,"['bill murray', 'dark comedy', 'emma stone', 'funny', 'jesse eisenberg', 'woody harrelson']"
+1418,71899,Mary and Max (2009),Animation|Comedy|Drama,4.2,"['bittersweet', 'black comedy', 'character study', 'dark comedy', 'friendship', 'loneliness', 'mental illness', 'philosophical', 'poignant', 'quirky', 'sad', 'sweet', 'touching']"
+1419,72224,Gentlemen Broncos (2009),Comedy,2.25,['bad humor']
+1420,72998,Avatar (2009),Action|Adventure|Sci-Fi|IMAX,3.6030927835051547,"['bad science', 'futuristic', 'graphic design', 'james cameron', 'military', 'poor dialogue', 'sci-fi', 'superficial plot', 'unoriginal', 'white guilt', 'beautiful scenery', 'graphic design', 'music', 'politics', 'romance', 'thought-provoking', 'too long', 'visually stunning']"
+1421,74458,Shutter Island (2010),Drama|Mystery|Thriller,4.022388059701493,"['insanity', 'leonardo dicaprio', 'martin scorsese', 'plot twist', 'psychological', 'psychological thriller', 'thought-provoking']"
+1422,74791,"Town Called Panic, A (Panique au village) (2009)",Animation,3.75,"['surreal', 'whimsical']"
+1423,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4.066433566433567,"['action', 'alternate reality', 'leonardo dicaprio', 'sci-fi', 'thought-provoking', 'visually appealing', 'dreamlike', 'surreal', 'visually appealing', 'big budget', 'clever', 'complicated', 'dead wife', 'great soundtrack', 'heist', 'intellectual', 'mindfuck', 'philosophy', 'psychological', 'psychology', 'suspense', 'thought-provoking', 'cerebral', 'dreamlike', 'philosophy', 'thought-provoking']"
+1424,79702,Scott Pilgrim vs. the World (2010),Action|Comedy|Fantasy|Musical|Romance,3.7045454545454546,"['geeky', 'michael cera', 'stylized', 'video games']"
+1425,80463,"Social Network, The (2010)",Drama,3.8859649122807016,"['good dialogue', 'loneliness', 'witty']"
+1426,80489,"Town, The (2010)",Crime|Drama|Thriller,3.9545454545454546,"['crime', 'fbi', 'romance', 'too much love interest']"
+1427,80834,Sintel (2010),Animation|Fantasy,3.5,"['adventure', 'animation', 'fantasy']"
+1428,80906,Inside Job (2010),Documentary,4.291666666666667,"['business', 'corruption', 'economics', 'investor corruption', 'politics', 'truth']"
+1429,81158,Restrepo (2010),Documentary|War,3.1666666666666665,['american idolatry']
+1430,81562,127 Hours (2010),Adventure|Drama|Thriller,3.8333333333333335,['stranded']
+1431,81591,Black Swan (2010),Drama|Thriller,3.630952380952381,"['alter ego', 'atmospheric', 'creepy', 'horror', 'obsession', 'surreal']"
+1432,82242,Rare Exports: A Christmas Tale (Rare Exports) (2010),Action|Comedy,4.25,['male nudity']
+1433,82459,True Grit (2010),Western,3.75,"['atmospheric', 'coen brothers', 'jeff bridges', 'matt damon', 'predictable']"
+1434,82461,Tron: Legacy (2010),Action|Adventure|Sci-Fi|IMAX,3.236842105263158,"['action choreography', 'horrid characterisation', 'poor plot development', 'sequel', 'soundtrack']"
+1435,83134,Tucker & Dale vs Evil (2010),Comedy|Horror,3.9166666666666665,['black comedy']
+1436,87430,Green Lantern (2011),Action|Adventure|Sci-Fi,2.35,"['audience intelligence underestimated', 'cgi', 'cheesy', 'comic book', 'dc', 'dc comics', 'ryan reynolds', 'space', 'superhero']"
+1437,88094,Upside Down: The Creation Records Story (2010),Documentary,3.0,"['britpop', 'indie record label', 'music']"
+1438,88405,Friends with Benefits (2011),Comedy|Romance,3.05,"['comedy', 'funny', 'happy ending', 'hot actress', 'justin timberlake', 'mila kunis', 'new york city', 'romance', 'sex']"
+1439,89745,"Avengers, The (2012)",Action|Adventure|Sci-Fi|IMAX,3.869565217391304,"['captain america', 'silly', 'superhero', 'superhero team', 'fun', 'great humor', 'visually appealing']"
+1440,89774,Warrior (2011),Drama,3.727272727272727,"['boxing story', 'mma', 'tom hardy']"
+1441,90439,Margin Call (2011),Drama|Thriller,3.7857142857142856,"['bank', 'big corporations', 'business', 'corruption', 'financial crisis', 'kevin spacey', 'realistic', 'suspense', 'wall street']"
+1442,90769,Starsuckers (2009),Documentary,4.0,"['celebrity fetishism', 'mediacentralism', 'system holism']"
+1443,91500,The Hunger Games (2012),Action|Adventure|Drama|Sci-Fi|Thriller,3.435185185185185,['ending']
+1444,91529,"Dark Knight Rises, The (2012)",Action|Adventure|Crime|IMAX,3.9934210526315788,"['anne hathaway', 'christian bale', 'christopher nolan', 'comic book', 'great ending', 'morgan freeman', 'political commentary', 'superhero']"
+1445,92259,Intouchables (2011),Comedy|Drama,4.108108108108108,"['emotional', 'sexuality']"
+1446,94959,Moonrise Kingdom (2012),Comedy|Drama|Romance,3.7758620689655173,['quirky']
+1447,95067,"Thousand Words, A (2012)",Comedy|Drama,2.8333333333333335,['interesting scenario']
+1448,95441,Ted (2012),Comedy|Fantasy,3.2857142857142856,['crude humor']
+1449,95558,Beasts of the Southern Wild (2012),Drama|Fantasy,3.357142857142857,"['beautiful', 'emotional', 'poetic']"
+1450,96079,Skyfall (2012),Action|Adventure|Thriller|IMAX,3.81,"['beautiful cinematography', 'beautifully filmed', 'cinematography']"
+1451,96084,Hands Over the City (Le mani sulla città) (1963),Drama,4.5,"['city politics', 'italy', 'political right versus left']"
+1452,96861,Taken 2 (2012),Action|Crime|Drama|Thriller,3.2857142857142856,"['istanbul', 'liam neeson', 'predictable', 'turkey', 'unnecessary sequel']"
+1453,97304,Argo (2012),Drama|Thriller,3.982142857142857,"['cia', 'politics', 'thrilling']"
+1454,97938,Life of Pi (2012),Adventure|Drama|IMAX,3.629032258064516,"['cinematography', 'india', 'surreal']"
+1455,98809,"Hobbit: An Unexpected Journey, The (2012)",Adventure|Fantasy|IMAX,3.8125,"['action', 'myth']"
+1456,98961,Zero Dark Thirty (2012),Action|Drama|Thriller,4.107142857142857,"['afghanistan', 'american propaganda', 'assassination', 'military', 'terrorism']"
+1457,99114,Django Unchained (2012),Action|Drama|Western,3.943661971830986,"['action', 'christoph waltz', 'funny', 'good soundtrack', 'great performances', 'humour', 'leonardo dicaprio', 'quentin tarantino', 'samuel l. jackson', 'soundtrack', 'western', 'soundtrack']"
+1458,99764,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,4.25,"['moving', 'philosopical', 'surreal', 'weird']"
+1459,99917,Upstream Color (2013),Romance|Sci-Fi|Thriller,3.1666666666666665,"['artistic', 'artsy', 'atmospheric', 'beautiful', 'dreamlike', 'existentialism']"
+1460,100083,Movie 43 (2013),Comedy,3.5,"['embarassing scenes', 'offensive', 'r language', 'sarcasm', 'satire']"
+1461,101142,"Croods, The (2013)",Adventure|Animation|Comedy,3.7777777777777777,"['animation', 'funny', 'stone age']"
+1462,102007,"Invincible Iron Man, The (2007)",Animation,3.0,['animation']
+1463,102903,Now You See Me (2013),Crime|Mystery|Thriller,3.409090909090909,"['illusions', 'overcomplicated', 'predictable', 'stupid ending']"
+1464,103042,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi|IMAX,3.2954545454545454,"['amy adams', 'superhero']"
+1465,104218,Grown Ups 2 (2013),Comedy,3.4,['adam sandler']
+1466,104841,Gravity (2013),Action|Sci-Fi|IMAX,3.578125,"['cliche characters', 'long shots', 'predictable', 'simple', 'slow action', 'visually appealing']"
+1467,104863,What If (2013),Comedy|Drama|Romance,2.6666666666666665,"['daniel radcliffe', 'zoe kazan']"
+1468,104875,"History of Future Folk, The (2012)",Adventure|Comedy|Musical|Sci-Fi,4.0,['quirky']
+1469,104879,Prisoners (2013),Drama|Mystery|Thriller,4.15625,"['absorbing', 'acting', 'atmospheric', 'hugh jackman', 'jake gyllenhaal', 'morality', 'mystery', 'thriller']"
+1470,104944,Short Term 12 (2013),Drama,3.75,"['emotional', 'feel-good', 'heartwarming', 'mental illness', 'touching']"
+1471,105504,Captain Phillips (2013),Adventure|Drama|Thriller|IMAX,4.0476190476190474,"['hostage', 'ocean', 'suspense', 'suspense', 'tense']"
+1472,106100,Dallas Buyers Club (2013),Drama,3.9705882352941178,"['jared leto', 'social commentary', 'uplifting']"
+1473,106489,"Hobbit: The Desolation of Smaug, The (2013)",Adventure|Fantasy|IMAX,3.58,"['adventure', 'fantasy', 'tolkien', 'too long']"
+1474,106766,Inside Llewyn Davis (2013),Drama,3.642857142857143,"['atmospheric', 'cinematography', 'depressing', 'funny']"
+1475,106782,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,3.9166666666666665,"['drugs', 'leonardo dicaprio', 'martin scorsese', 'stock market', 'wall street']"
+1476,107348,Anchorman 2: The Legend Continues (2013),Comedy,3.3636363636363638,"['comedy', 'steve carell', 'stupid but funny', 'will ferrell']"
+1477,107406,Snowpiercer (2013),Action|Drama|Sci-Fi,3.4285714285714284,['fatalistic']
+1478,108190,Divergent (2014),Adventure|Romance|Sci-Fi|IMAX,3.0,"['anti-intellectual', 'bad writing', 'dystopia', 'new society', 'plot holes', 'predictable', 'scifi', 'unintelligent']"
+1479,108932,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy,3.870967741935484,"['cheeky', 'clever', 'colorful', 'feel-good', 'fun', 'imaginative', 'quirky']"
+1480,109487,Interstellar (2014),Sci-Fi|IMAX,3.993150684931507,"['black hole', 'sci-fi', 'time-travel', 'christopher nolan', 'sci-fi', 'time-travel', 'bad dialogue', 'philosophical issues', 'thought-provoking', 'visually appealing']"
+1481,111364,Godzilla (2014),Action|Adventure|Sci-Fi|IMAX,2.6153846153846154,['creature feature']
+1482,111743,A Million Ways to Die in the West (2014),Comedy|Western,2.9583333333333335,"['charlize theron', 'liam neeson', 'seth macfarlane', 'witty']"
+1483,112421,Frank (2014),Comedy|Drama|Mystery,4.333333333333333,"['adorable', 'black comedy', 'eccentric', 'introspection', 'mental illness', 'quirky']"
+1484,112515,"Babadook, The (2014)",Drama|Horror|Thriller,4.5,"['atmospheric', 'dark', 'metaphorical', 'psychological']"
+1485,112552,Whiplash (2014),Drama,4.0394736842105265,"['passion', 'psychological', 'suspense', 'jazz', 'music', 'tense', 'inspirational', 'inspiring', 'intense']"
+1486,112556,Gone Girl (2014),Drama|Thriller,3.7162162162162162,"['annoying', 'stupid ending']"
+1487,112852,Guardians of the Galaxy (2014),Action|Adventure|Sci-Fi,4.0508474576271185,"['funny', 'great visuals', 'humorous', 'unlikely hero']"
+1488,113705,"Two Days, One Night (Deux jours, une nuit) (2014)",Drama,3.5,['bittersweet']
+1489,114180,"Maze Runner, The (2014)",Action|Mystery|Sci-Fi,2.9375,"['action', 'dystopia', 'plot holes', 'post-apocalyptic', 'survival', 'thriller', 'unexplained', 'weak plot']"
+1490,114627,Angel's Egg (Tenshi no tamago) (1985),Animation|Drama|Fantasy,3.25,"['atmospheric', 'bizzare', 'eerie', 'symbolism']"
+1491,115149,John Wick (2014),Action|Thriller,3.8448275862068964,"['dark hero', 'gun-fu', 'keanu reeves', 'revenge', 'secret society', 'stylish', 'action', 'killer', 'widows/widowers']"
+1492,115617,Big Hero 6 (2014),Action|Animation|Comedy,3.8536585365853657,"['animation', 'kids', 'robots', 'feel-good', 'fun family movie', 'very funny']"
+1493,116797,The Imitation Game (2014),Drama|Thriller|War,4.02,"['inspirational', 'intelligent']"
+1494,116897,Wild Tales (2014),Comedy|Drama|Thriller,4.25,"['black comedy', 'dark comedy', 'dark humor', 'ironic', 'multiple short stories', 'short stories']"
+1495,117877,The Rabbi's Cat (Le chat du rabbin) (2011),Adventure|Animation,3.0,"['philosophical', 'trippy']"
+1496,117887,Paddington (2014),Children|Comedy,4.0,['heartwarming']
+1497,118696,The Hobbit: The Battle of the Five Armies (2014),Adventure|Fantasy,3.4166666666666665,['hope']
+1498,118784,Good Copy Bad Copy (2007),Documentary,3.5,"['documentary', 'music industry', 'remix culture']"
+1499,118985,Big Eyes (2014),Drama,3.75,['painter']
+1500,119141,The Interview (2014),Action|Comedy,3.4583333333333335,"['bloody', 'bromance', 'comedy', 'funny', 'james franco', 'seth rogen']"
+1501,119145,Kingsman: The Secret Service (2015),Action|Adventure|Comedy|Crime,3.986111111111111,['slick']
+1502,120635,Taken 3 (2015),Action|Crime|Thriller,2.7,"['action', 'murder', 'police']"
+1503,122882,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller,3.8191489361702127,"['beautiful', 'cinematography', 'visually appealing']"
+1504,122912,Avengers: Infinity War - Part I (2018),Action|Adventure|Sci-Fi,4.0,"['comic book', 'dr. strange', 'great villain', 'guardians of the galaxy', 'marvel', 'mcu', 'robert downey jr.', 'thanos', 'thor', 'visually stunning', 'dark', 'emotional', 'sad', 'visually appealing', 'visually stunning']"
+1505,122916,Thor: Ragnarok (2017),Action|Adventure|Sci-Fi,4.025,"['awesome', 'humor', 'quirky', 'unconventional', 'white guilt']"
+1506,122918,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,3.925925925925926,['fun']
+1507,122922,Doctor Strange (2016),Action|Adventure|Sci-Fi,3.7045454545454546,['visually appealing']
+1508,126548,The DUFF (2015),Comedy,3.25,"['funny', 'high school']"
+1509,127172,A Story of Children and Film (2013),Documentary,3.5,"['film history', 'poetic', 'representation of children']"
+1510,127298,A Pigeon Sat on a Branch Reflecting on Existence (2014),Comedy|Drama,4.0,"['depressing', 'understated']"
+1511,128360,The Hateful Eight (2015),Western,3.75,"['characters', 'dialogue', 'humor', 'kurt russell', 'quentin tarantino', 'samuel l. jackson', 'tension building', 'violent', 'western']"
+1512,134130,The Martian (2015),Adventure|Drama|Sci-Fi,4.0,['smart']
+1513,134170,Kung Fury (2015),Action|Comedy|Fantasy|Sci-Fi,3.7142857142857144,"['funny', 'ridiculous', 'silly']"
+1514,135133,The Hunger Games: Mockingjay - Part 2 (2015),Adventure|Sci-Fi,3.7,"['dystopia', 'jennifer lawrence', 'love story', 'nonsense', 'politics', 'rebellion', 'revolution']"
+1515,135518,Self/less (2015),Action|Mystery|Sci-Fi|Thriller,2.75,"['ben kingsley', 'ethics', 'immortality', 'ryan reynolds']"
+1516,135536,Suicide Squad (2016),Action|Crime|Sci-Fi,2.9166666666666665,"['bad story', 'bad writing', 'batman', 'ben affleck', 'comic book', 'dc comics', 'good soundtrack', 'harley quinn', ""harley quinn's ass"", 'horrible directing', 'jared leto', 'joker', 'lack of plot', 'margot robbie', 'poor story', 'poorly paced', 'superhero', 'visually appealing', 'will smith']"
+1517,136864,Batman v Superman: Dawn of Justice (2016),Action|Adventure|Fantasy|Sci-Fi,2.34375,"['action', 'batman', 'ben affleck', 'dark', 'dc comics', 'gal gadot', 'superhero', 'superman', 'wonderwoman']"
+1518,138036,The Man from U.N.C.L.E. (2015),Action|Adventure|Comedy,3.4722222222222223,"['slick', 'stylish']"
+1519,139385,The Revenant (2015),Adventure|Drama,3.903225806451613,"['leonardo dicarpio', 'survival', 'tom hardy', 'visually appealing', 'cinematography', 'visually appealing', 'visually striking']"
+1520,139644,Sicario (2015),Crime|Drama|Mystery,3.5454545454545454,"['atmospheric', 'tension']"
+1521,140174,Room (2015),Drama,3.5625,"['moving', 'touching']"
+1522,141890,Beasts of No Nation (2015),Drama|War,3.0,['moving']
+1523,143367,Silence (2016),Drama|Thriller,3.75,"['contemplative', 'philosophical', 'thought-provoking', 'tragic']"
+1524,144210,Just Eat It: A Food Waste Story (2014),Documentary,4.0,"['dumpster diving', 'sustainability']"
+1525,148626,"Big Short, The (2015)",Drama,3.9615384615384617,"['funny', 'interesting', 'witty']"
+1526,148881,World of Tomorrow (2015),Animation|Comedy,4.5,"['existential', 'surreal']"
+1527,152077,10 Cloverfield Lane (2016),Thriller,3.6785714285714284,"['creepy', 'suspense']"
+1528,152711,Who Killed Chea Vichea? (2010),Documentary,5.0,"['cambodia', 'crime', 'human rights', 'murder', 'procedural']"
+1529,153070,Rabbits (2002),Comedy|Drama|Fantasy,3.5,['nightmare']
+1530,155288,Eye in the Sky (2016),Drama|Thriller|War,2.8333333333333335,"['suspense', 'thought-provoking']"
+1531,156371,Everybody Wants Some (2016),Comedy,4.166666666666667,"[""80's""]"
+1532,156605,Paterson,(no genres listed),4.5,"['quirky', 'sweet', 'understated']"
+1533,158872,Sausage Party (2016),Animation|Comedy,3.642857142857143,"['crude humor', 'mindfuck', 'sarcasm', 'satire', 'vulgar']"
+1534,158966,Captain Fantastic (2016),Drama,4.5,"['building a family', 'creative', 'freedom', 'good writing', 'individualism', 'viggo mortensen']"
+1535,161634,Don't Breathe (2016),Thriller,3.3,['intense']
+1536,164179,Arrival (2016),Sci-Fi,3.980769230769231,"['beautiful visuals', 'cerebral', 'cinematography', 'good cinematography', 'smart', 'thought-provoking', 'visually appealing']"
+1537,164909,La La Land (2016),Comedy|Drama|Romance,3.388888888888889,"['bittersweet', 'visually appealing']"
+1538,167746,The Lego Batman Movie (2017),Action|Animation|Comedy,3.7142857142857144,"['funny', 'heartwarming']"
+1539,168248,John Wick: Chapter Two (2017),Action|Crime|Thriller,4.142857142857143,"['action', 'dark hero', 'gun tactics', 'hitman', 'keanu reeves', 'organized crime', 'secret society', 'heroic bloodshed']"
+1540,168252,Logan (2017),Action|Sci-Fi,4.28,"['dark', 'emotional', 'gritty', 'heartbreaking', 'predictible plot']"
+1541,170945,It Comes at Night (2017),Horror|Mystery|Thriller,3.5,"['paranoia', 'suspenseful']"
+1542,174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,"['dystopia', 'future', 'interesting', 'jon hamm', 'thought provoking']"
+1543,174055,Dunkirk (2017),Action|Drama|Thriller|War,3.423076923076923,"['brilliant', 'inspiring', 'tense']"
+1544,176371,Blade Runner 2049 (2017),Sci-Fi,3.8055555555555554,"['atmospheric', 'beautiful', 'cinematography', 'dark', 'dreamlike', 'existentialism', 'moody', 'philosophical']"
+1545,176419,Mother! (2017),Drama|Horror|Mystery|Thriller,3.25,"['allegorical', 'uncomfortable', 'unsettling']"
+1546,179401,Jumanji: Welcome to the Jungle (2017),Action|Adventure|Children,3.6666666666666665,"['action', 'comedy', 'dwayne johnson', 'funny']"
+1547,180031,The Shape of Water (2017),Adventure|Drama|Fantasy,3.6875,"['atmospheric', 'dreamlike']"
+1548,180985,The Greatest Showman (2017),Drama,3.0,['bad music']
+1549,183611,Game Night (2018),Action|Comedy|Crime|Horror,4.0,"['comedy', 'funny', 'rachel mcadams']"
+1550,184471,Tomb Raider (2018),Action|Adventure|Fantasy,2.5,"['adventure', 'alicia vikander', 'video game adaptation']"
+1551,187593,Deadpool 2 (2018),Action|Comedy|Sci-Fi,3.875,"['josh brolin', 'ryan reynolds', 'sarcasm']"
+1552,187595,Solo: A Star Wars Story (2018),Action|Adventure|Children|Sci-Fi,3.9,"['emilia clarke', 'star wars']"
+1553,193565,Gintama: The Movie (2010),Action|Animation|Comedy|Sci-Fi,3.5,"['anime', 'comedy', 'gintama', 'remaster']"
