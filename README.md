@@ -6,4 +6,4 @@ The goal of this project was to use feature engineering and a clustering alogrit
 
 #### Findings 
 
-In the notebook `clustering_report` I used KMeans clustering with 10 clusters to develop a model to group movies with similar ratings and polarity of tags (ie negativity or positivity of tags). I chose 10 clusters based on the elbow method. The final product is the `recommend` function which recommends similar titles based on the cluster. 
+In the notebook `clustering_report` I used KMeans clustering with 10 clusters to develop a model to group movies with similar ratings and polarity of tags (ie negativity or positivity of tags). I chose 10 clusters based on the elbow method. The final product is the `recommend` function which takes in a movie and recommends similar titles in the same cluster as the provided movie. 
